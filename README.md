@@ -1,17 +1,13 @@
 # LLM Query Reformulation
 
-A comprehensive framework for analyzing and improving search query effectiveness through Large Language Model (LLM) based pattern extraction and reformulation techniques.
-
-## Overview
-
-This project focuses on understanding how queries can be reformulated to improve retrieval effectiveness in information retrieval systems. It uses LLMs to automatically identify patterns in query reformulation pairs and applies these patterns to enhance search queries.
+Our project focuses on understanding how queries can be reformulated to improve retrieval effectiveness in information retrieval systems. It uses LLMs to automatically identify a consolidated list of patterns in query reformulation pairs and applies these patterns to new unseen queries to enhance their retrieval effectiveness.
 
 ## Project Structure
 
 ```
 llm_query_reformulation/
 ├── data/                           # Dataset directory
-│   ├── chameleons/                # Chameleons dataset (Lesser, Pygmy, Veiled)
+│   ├── chameleons/                # Chameleons dataset (Lesser, Pygmy, Veiled). These are hard queries that mainly receive MRR@10 of 0.
 │   │   ├── Lesser(common6)/       # Lesser chameleon dataset variants
 │   │   │   ├── Lesser_common6_0.1
 │   │   │   ├── Lesser_common6_0.2
@@ -30,10 +26,10 @@ llm_query_reformulation/
 │   │       ├── Veiled_common4_0.3
 │   │       ├── Veiled_common4_0.4
 │   │       └── Veiled_common4_0.5
-│   ├── dev_small/                 # Small development dataset
+│   ├── dev_small/                 # Small development dataset of MS MARCO
 │   │   ├── queries.dev.small.tsv
 │   │   └── qrels.dev.small.tsv    # Relevance judgments
-│   ├── diamond_dataset/           # Main diamond dataset
+│   ├── diamond_dataset/           # Main diamond dataset from Matches Made in Heaven Dataset
 │   │   ├── diamond_dataset.tsv
 │   │   └── diamond_dataset_test_235631.tsv
 │   ├── trecdl2019/               # TREC DL 2019 dataset
@@ -45,19 +41,21 @@ llm_query_reformulation/
 │       ├── bm25_run_original_queries.tsv
 │       └── qrels.trec            # Relevance judgments
 ├── results/                       # Experiment results
-│   └── consolied_reformulation_patterns_qwen2.5:72b/  # Sample experiment results
+│   └── consolied_reformulation_patterns_qwen2.5:72b/  # experiment results
 │       ├── consolidated_patterns_on_7310_pairs.json
 │       ├── extracted_patterns_from_1000_pairs.json
 │       └── extracted_patterns_from_4200_pairs.json
 ├── src/                          # Source code
 │   ├── iterative_pattern_extraction.py    # Main pattern extraction script
 │   ├── query_reformulation_prompts.py     # Prompt templates
-│   └── query_reformulation_all_prompts.py # Extended prompt templates
+│   └── query_reformulation_all_prompts.py # Extended version of all prompt variations templates
 ├── MRR_calculator.py             # Mean Reciprocal Rank calculator
 ├── NDCG_calculator.py            # Normalized Discounted Cumulative Gain calculator
-├── Recall_calculator.py          # Recall@K calculator
-└── README.md                     # This file
+└── Recall_calculator.py          # Recall@K calculator
 ```
+
+You can read more Chamaeonls paper and its datasets [HERE](https://www.academia.edu/download/75533636/3459637.pdf).
+You can also read more about Matches Made in Heaven dataset [HERE](https://www.academia.edu/download/79261751/3459637.pdf).
 
 ## Key Components
 
@@ -229,7 +227,7 @@ Each experiment generates:
 
 - Python 3.7+
 - Required packages: `openai`, `ollama`, `pandas`, `numpy`, `tqdm`, `requests`
-- For BM25: Pyserini toolkit with MS MARCO index
+- For BM25: Anserini/Pyserini toolkit with MS MARCO index
 
 ## Configuration
 
