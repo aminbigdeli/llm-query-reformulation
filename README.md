@@ -173,7 +173,7 @@ sh target/appassembler/bin/SearchMsmarco -hits 1000 -threads 50 \
 
 The results directory contains timestamped experiment folders, each representing a complete pattern extraction run. Each experiment folder is named using the format: `experiment_YYYYMMDD_HHMMSS_[model_name]`.
 
-#### Customized Results of Patterns Extracted: `consolied_reformulation_patterns_qwen2.5:72b/`
+#### Customizedted Results of Patterns Extracted: `consolied_reformulation_patterns_qwen2.5:72b/`
 
 This directory contains results from pattern extraction experiments using the Qwen2.5:72b model, demonstrating two different methodological approaches:
 
@@ -225,7 +225,7 @@ Each experiment generates:
 - `individual_patterns_[N]_queries.json`: Intermediate individual mappings
 - `extraction_results_[N]_queries.json`: Intermediate iteration results
 
-## Requirements
+## Requirementnning
 
 - Python 3.7+
 - Required packages: `openai`, `ollama`, `pandas`, `numpy`, `tqdm`, `requests`
