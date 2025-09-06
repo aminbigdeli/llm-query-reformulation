@@ -1,0 +1,408 @@
+[
+  {
+    "pattern_name": "Clarify Intent with Specificity",
+    "description": "Improves retrieval by specifying the exact information needed, reducing ambiguity.",
+    "transformation_rule": "Add specific details or context to the query to clarify the user's intent.",
+    "examples": [
+      [
+        "glucocorticoid hormones are secreted by which part of which endocrine gland",
+        "which endocrine gland is located on the bottom of the hypothalamus"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Related Information",
+    "description": "Improves retrieval by adding related information to clarify the user's intent, reducing ambiguity.",
+    "transformation_rule": "Add details about related topics or aspects that provide context.",
+    "examples": [
+      [
+        "do peacocks lose their tail feathers",
+        "how long until peacocks lay eggs"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Definition",
+    "description": "Improves retrieval by framing the query as a definition request, making it more direct and clear.",
+    "transformation_rule": "Use 'define:' or similar language to specify that a definition is needed.",
+    "examples": [
+      [
+        "compensatory royalty definition",
+        "what is the kicker of the royalty"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Outcome",
+    "description": "Improves retrieval by specifying the desired outcome, making results more relevant and accurate.",
+    "transformation_rule": "Add details about the expected or intended result of the action or process.",
+    "examples": [
+      [
+        "how wide is a freeway lane",
+        "how wide should auxiliary lanes be"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Venue Context",
+    "description": "Improves retrieval by specifying the venue or location, making results more relevant and accurate.",
+    "transformation_rule": "Include specific details about the venue or location in the query.",
+    "examples": [
+      [
+        "crestline ohio tax rate",
+        "what is crestline, oh sales tax rate?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Simplified Language",
+    "description": "Improves retrieval by simplifying the language used, making it more accessible and clear.",
+    "transformation_rule": "Use simpler words or phrases that convey the same meaning.",
+    "examples": [
+      [
+        "what chromosome are the genes for hemophilia found on?",
+        "what type of fault causes hemophilia?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Positive Attributes",
+    "description": "Improves retrieval by focusing on positive attributes or qualities, making results more relevant and accurate.",
+    "transformation_rule": "Highlight the positive aspects or benefits of the subject being queried.",
+    "examples": [
+      [
+        "when did the maple leaf rag come out",
+        "who recorded maple leaf"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Astrological Context",
+    "description": "Improves retrieval by specifying astrological context, making results more relevant and accurate.",
+    "transformation_rule": "Include specific details about the astrological sign or chart in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Intent with Geographic Context",
+    "description": "Improves retrieval by specifying geographic context, making results more relevant and accurate.",
+    "transformation_rule": "Include specific details about the location or region in the query.",
+    "examples": [
+      [
+        "what is natural flavoring mean in la croix",
+        "does lacroix sparkling water have castoreum"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Legal Context",
+    "description": "Improves retrieval by specifying legal context, making results more relevant and accurate.",
+    "transformation_rule": "Add details about the legal aspects or implications in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Acronyms",
+    "description": "Improves retrieval by clarifying acronyms, making them more understandable and searchable.",
+    "transformation_rule": "Expand or provide context for acronyms in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Intent with Clarification",
+    "description": "Improves retrieval by rephrasing the query to make it more clear and direct, reducing ambiguity.",
+    "transformation_rule": "Rephrase the query to ensure clarity and directness.",
+    "examples": [
+      [
+        "can coming off clonazepam cause stomach problems",
+        "symptoms of stopping klonopin"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Simplify Query with Core Elements",
+    "description": "Improves retrieval by focusing on the core elements of the query, making it more direct and clear.",
+    "transformation_rule": "Remove unnecessary details and focus on the main subject or action.",
+    "examples": [
+      [
+        "temper cooling definition",
+        "tempering chocolate definition"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Medical Context",
+    "description": "Improves retrieval by providing context to medical terms, making them more understandable.",
+    "transformation_rule": "Add context or related information to clarify the meaning of medical terms.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Specify Job Role",
+    "description": "Improves retrieval by specifying the job role in salary queries, making results more relevant.",
+    "transformation_rule": "Include the specific job title or role in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Contextualize Medical Terms",
+    "description": "Improves retrieval by providing context to medical terms, making them more understandable.",
+    "transformation_rule": "Add context or related information to clarify the meaning of medical terms.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Specify Location",
+    "description": "Improves retrieval by specifying the location, making results more relevant and accurate.",
+    "transformation_rule": "Include the specific location in the query.",
+    "examples": [
+      [
+        "crestline ohio tax rate",
+        "what is crestline, oh sales tax rate?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Sports Statistics",
+    "description": "Improves retrieval by specifying the exact statistic or achievement, reducing ambiguity.",
+    "transformation_rule": "Add specific details about the statistic or achievement in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Specify Geographic Features",
+    "description": "Improves retrieval by specifying geographic features, making results more relevant and accurate.",
+    "transformation_rule": "Include specific details about the geographic feature in the query.",
+    "examples": [
+      [
+        "how wide is a freeway lane",
+        "how wide should auxiliary lanes be"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Historical Events",
+    "description": "Improves retrieval by specifying the exact historical event or period, reducing ambiguity.",
+    "transformation_rule": "Add specific details about the historical event or period in the query.",
+    "examples": [
+      [
+        "when did the maple leaf rag come out",
+        "who recorded maple leaf"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Genetic Concepts",
+    "description": "Improves retrieval by specifying genetic concepts, making them more understandable and searchable.",
+    "transformation_rule": "Add specific details or context to clarify genetic concepts in the query.",
+    "examples": [
+      [
+        "what chromosome are the genes for hemophilia found on?",
+        "what type of fault causes hemophilia?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Literary Works",
+    "description": "Improves retrieval by specifying the exact literary work or author, reducing ambiguity.",
+    "transformation_rule": "Add specific details about the literary work or author in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Expand Abbreviations",
+    "description": "Improves retrieval by expanding abbreviations, making them more understandable and searchable.",
+    "transformation_rule": "Replace abbreviations with their full forms in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use Synonyms",
+    "description": "Improves retrieval by using synonyms to capture different ways of expressing the same concept.",
+    "transformation_rule": "Substitute words or phrases with their synonyms in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Add Temporal Context",
+    "description": "Improves retrieval by adding temporal context, making results more relevant and accurate.",
+    "transformation_rule": "Include specific time periods or dates in the query.",
+    "examples": [
+      [
+        "when did the maple leaf rag come out",
+        "who recorded maple leaf"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Units of Measurement",
+    "description": "Improves retrieval by specifying units of measurement, reducing ambiguity.",
+    "transformation_rule": "Add units of measurement to clarify the scale or type of data being sought.",
+    "examples": [
+      [
+        "how wide is a freeway lane",
+        "how wide should auxiliary lanes be"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Specify Data Type",
+    "description": "Improves retrieval by specifying the type of data needed, making results more relevant and accurate.",
+    "transformation_rule": "Include the specific type of data (e.g., statistics, definitions) in the query.",
+    "examples": [
+      [
+        "compensatory royalty definition",
+        "what is the kicker of the royalty"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Questions",
+    "description": "Improves retrieval by framing the query as a question, making it more direct and clear.",
+    "transformation_rule": "Rephrase the query to be a direct question.",
+    "examples": [
+      [
+        "what chromosome are the genes for hemophilia found on?",
+        "what type of fault causes hemophilia?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Add Contextual Information",
+    "description": "Improves retrieval by adding contextual information, making results more relevant and accurate.",
+    "transformation_rule": "Include additional context or background information in the query.",
+    "examples": [
+      [
+        "what is natural flavoring mean in la croix",
+        "does lacroix sparkling water have castoreum"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Examples",
+    "description": "Improves retrieval by providing examples to clarify the user's intent, reducing ambiguity.",
+    "transformation_rule": "Add examples or specific instances to illustrate the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More Specific Terms",
+    "description": "Improves retrieval by using more specific terms, making results more relevant and accurate.",
+    "transformation_rule": "Replace general terms with more specific ones in the query.",
+    "examples": [
+      [
+        "what chromosome are the genes for hemophilia found on?",
+        "what type of fault causes hemophilia?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Purpose",
+    "description": "Improves retrieval by specifying the purpose of the query, reducing ambiguity.",
+    "transformation_rule": "Add the intended use or purpose of the information being sought.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More General Terms",
+    "description": "Improves retrieval by using more general terms to capture a broader range of results.",
+    "transformation_rule": "Replace specific terms with more general ones in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Intent with Scope",
+    "description": "Improves retrieval by specifying the scope of the query, reducing ambiguity.",
+    "transformation_rule": "Add details about the scope or extent of the information being sought.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More Precise Language",
+    "description": "Improves retrieval by using more precise language, making results more relevant and accurate.",
+    "transformation_rule": "Replace vague terms with more precise ones in the query.",
+    "examples": [
+      [
+        "what chromosome are the genes for hemophilia found on?",
+        "what type of fault causes hemophilia?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Contextual Questions",
+    "description": "Improves retrieval by framing the query as a contextual question, making it more direct and clear.",
+    "transformation_rule": "Rephrase the query to include context or background information in the form of a question.",
+    "examples": [
+      [
+        "what is natural flavoring mean in la croix",
+        "does lacroix sparkling water have castoreum"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Use More Descriptive Terms",
+    "description": "Improves retrieval by using more descriptive terms, making results more relevant and accurate.",
+    "transformation_rule": "Replace generic terms with more descriptive ones in the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Intent with Comparative Language",
+    "description": "Improves retrieval by using comparative language to clarify the user's intent, reducing ambiguity.",
+    "transformation_rule": "Add comparisons or contrasts to the query to specify what is being compared.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More Specific Context",
+    "description": "Improves retrieval by providing more specific context, making results more relevant and accurate.",
+    "transformation_rule": "Include detailed context or background information in the query.",
+    "examples": [
+      [
+        "what is natural flavoring mean in la croix",
+        "does lacroix sparkling water have castoreum"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Conditional Language",
+    "description": "Improves retrieval by using conditional language to clarify the user's intent, reducing ambiguity.",
+    "transformation_rule": "Add conditions or scenarios to the query to specify under what circumstances the information is needed.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More Specific Examples",
+    "description": "Improves retrieval by providing more specific examples, making results more relevant and accurate.",
+    "transformation_rule": "Add detailed examples or specific instances to illustrate the query.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Clarify Intent with Purposeful Questions",
+    "description": "Improves retrieval by framing the query as a purposeful question, making it more direct and clear.",
+    "transformation_rule": "Rephrase the query to include the intended use or purpose of the information being sought in the form of a question.",
+    "examples": []
+  },
+  {
+    "pattern_name": "Use More Specific Data Types",
+    "description": "Improves retrieval by specifying more specific data types, making results more relevant and accurate.",
+    "transformation_rule": "Include detailed types of data (e.g., exact statistics, definitions) in the query.",
+    "examples": [
+      [
+        "compensatory royalty definition",
+        "what is the kicker of the royalty"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Detailed Context",
+    "description": "Improves retrieval by providing detailed context, making results more relevant and accurate.",
+    "transformation_rule": "Include extensive background information or context in the query.",
+    "examples": [
+      [
+        "what is natural flavoring mean in la croix",
+        "does lacroix sparkling water have castoreum"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Use More Specific Units of Measurement",
+    "description": "Improves retrieval by specifying more specific units of measurement, reducing ambiguity.",
+    "transformation_rule": "Add detailed units of measurement to clarify the scale or type of data being sought.",
+    "examples": [
+      [
+        "how wide is a freeway lane",
+        "how wide should auxiliary lanes be"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Detailed Purpose",
+    "description": "Improves retrieval by specifying a detailed purpose, reducing ambiguity.",
+    "transformation_rule": "Add extensive details about the intended use or purpose of the information being sought.",
+    "examples": []
+  }
+]

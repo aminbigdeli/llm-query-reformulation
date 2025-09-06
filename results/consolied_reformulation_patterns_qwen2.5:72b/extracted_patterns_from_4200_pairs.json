@@ -1,0 +1,530 @@
+[
+  {
+    "pattern_name": "Clarify Intent with Specificity",
+    "description": "Improves retrieval by specifying the exact information needed, reducing ambiguity.",
+    "transformation_rule": "Add specific details or context to the query to clarify the user's intent.",
+    "examples": [
+      [
+        "average salary respiratory therapist anchorage",
+        "average annual income for respiratory therapist Anchorage"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify terms in the query to ensure they are well-understood.",
+    "examples": [
+      [
+        "what is quattro",
+        "what brand of car is audi?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization",
+    "description": "Improves retrieval by standardizing terms or measurements, making results more relevant and accurate for queries involving standardized information.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency.",
+    "examples": [
+      [
+        "average cost of tuition bpcc",
+        "average tuition at bossier parish community college"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Question",
+    "description": "Improves retrieval by specifying a user question, making results more relevant and accurate for queries about specific questions or inquiries.",
+    "transformation_rule": "Include specific details about the user's questions in the query.",
+    "examples": [
+      [
+        "biblical definition of salvation",
+        "salvation definition"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion",
+    "description": "Improves retrieval by expanding terms to include related concepts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context.",
+    "examples": [
+      [
+        "guaranty agreement definition",
+        "what's the difference between absolute guaranty and absolute guarantor"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification",
+    "description": "Improves retrieval by simplifying complex terms or concepts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language.",
+    "examples": [
+      [
+        "cream corn calories",
+        "cream style corn calories"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Historical Context",
+    "description": "Improves retrieval by specifying historical context, making results more relevant and accurate for queries about past events or figures.",
+    "transformation_rule": "Include specific details about the historical aspect in the query.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Contextual Relevance",
+    "description": "Improves retrieval by adding context that makes the query more relevant to the user's needs.",
+    "transformation_rule": "Add contextual information that aligns with the user's intent or environment.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Measurement Standardization",
+    "description": "Improves retrieval by standardizing measurements, making results more relevant and accurate for queries involving specific units.",
+    "transformation_rule": "Use standardized measurement units in the query to ensure consistency.",
+    "examples": [
+      [
+        "us shoe size width",
+        "width of standard shoes"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Goal",
+    "description": "Improves retrieval by specifying a user goal, making results more relevant and accurate for queries that benefit from understanding the user's objective.",
+    "transformation_rule": "Include specific details about the user's goal in the query.",
+    "examples": [
+      [
+        "what does invokana cost",
+        "invokana price"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Advanced)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood, especially in technical or specialized contexts.",
+    "transformation_rule": "Replace or clarify complex or technical terms to ensure they are well-understood.",
+    "examples": [
+      [
+        "guaranty agreement definition",
+        "what's the difference between absolute guaranty and absolute guarantor"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization (General)",
+    "description": "Improves retrieval by standardizing terms or measurements in general contexts, making results more relevant and accurate for queries involving standardized information.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency, especially for general information.",
+    "examples": [
+      [
+        "average cost of tuition bpcc",
+        "average tuition at bossier parish community college"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (General)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in general contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for general information.",
+    "examples": [
+      [
+        "cream corn calories",
+        "cream style corn calories"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Goal (General)",
+    "description": "Improves retrieval by specifying a user goal in general contexts, making results more relevant and accurate for queries that benefit from understanding the user's objective.",
+    "transformation_rule": "Include specific details about the user's goal in the query, especially for general information.",
+    "examples": [
+      [
+        "what does invokana cost",
+        "invokana price"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Question (General)",
+    "description": "Improves retrieval by specifying a user question in general contexts, making results more relevant and accurate for queries about specific questions or inquiries.",
+    "transformation_rule": "Include specific details about the user's questions in the query, especially for general information.",
+    "examples": [
+      [
+        "biblical definition of salvation",
+        "salvation definition"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion (General)",
+    "description": "Improves retrieval by expanding terms to include related concepts in general contexts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context, especially for general information.",
+    "examples": [
+      [
+        "guaranty agreement definition",
+        "what's the difference between absolute guaranty and absolute guarantor"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Historical Context (General)",
+    "description": "Improves retrieval by specifying historical context in general contexts, making results more relevant and accurate for queries about past events or figures.",
+    "transformation_rule": "Include specific details about the historical aspect in the query, especially for general information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Contextual Relevance (General)",
+    "description": "Improves retrieval by adding context that makes the query more relevant to the user's needs in general contexts.",
+    "transformation_rule": "Add contextual information that aligns with the user's intent or environment, especially for general information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Measurement Standardization (General)",
+    "description": "Improves retrieval by standardizing measurements in general contexts, making results more relevant and accurate for queries involving specific units.",
+    "transformation_rule": "Use standardized measurement units in the query to ensure consistency, especially for general information.",
+    "examples": [
+      [
+        "us shoe size width",
+        "width of standard shoes"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Specialized)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood in specialized contexts, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify complex or technical terms to ensure they are well-understood, especially for specialized information.",
+    "examples": [
+      [
+        "guaranty agreement definition",
+        "what's the difference between absolute guaranty and absolute guarantor"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization (Specialized)",
+    "description": "Improves retrieval by standardizing terms or measurements in specialized contexts, making results more relevant and accurate for queries involving standardized information.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency, especially for specialized information.",
+    "examples": [
+      [
+        "average cost of tuition bpcc",
+        "average tuition at bossier parish community college"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (Specialized)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in specialized contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for specialized information.",
+    "examples": [
+      [
+        "cream corn calories",
+        "cream style corn calories"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Goal (Specialized)",
+    "description": "Improves retrieval by specifying a user goal in specialized contexts, making results more relevant and accurate for queries that benefit from understanding the user's objective.",
+    "transformation_rule": "Include specific details about the user's goal in the query, especially for specialized information.",
+    "examples": [
+      [
+        "what does invokana cost",
+        "invokana price"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Question (Specialized)",
+    "description": "Improves retrieval by specifying a user question in specialized contexts, making results more relevant and accurate for queries about specific questions or inquiries.",
+    "transformation_rule": "Include specific details about the user's questions in the query, especially for specialized information.",
+    "examples": [
+      [
+        "biblical definition of salvation",
+        "salvation definition"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion (Specialized)",
+    "description": "Improves retrieval by expanding terms to include related concepts in specialized contexts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context, especially for specialized information.",
+    "examples": [
+      [
+        "guaranty agreement definition",
+        "what's the difference between absolute guaranty and absolute guarantor"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Historical Context (Specialized)",
+    "description": "Improves retrieval by specifying historical context in specialized contexts, making results more relevant and accurate for queries about past events or figures.",
+    "transformation_rule": "Include specific details about the historical aspect in the query, especially for specialized information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Contextual Relevance (Specialized)",
+    "description": "Improves retrieval by adding context that makes the query more relevant to the user's needs in specialized contexts.",
+    "transformation_rule": "Add contextual information that aligns with the user's intent or environment, especially for specialized information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Measurement Standardization (Specialized)",
+    "description": "Improves retrieval by standardizing measurements in specialized contexts, making results more relevant and accurate for queries involving specific units.",
+    "transformation_rule": "Use standardized measurement units in the query to ensure consistency, especially for specialized information.",
+    "examples": [
+      [
+        "us shoe size width",
+        "width of standard shoes"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Etymology",
+    "description": "Improves retrieval by specifying the origin or etymology of a term, making results more relevant and accurate for queries about names or terms.",
+    "transformation_rule": "Include information about the origin or etymology of the term in the query.",
+    "examples": [
+      [
+        "what is quattro",
+        "what brand of car is audi?"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Semantic Shift",
+    "description": "Improves retrieval by shifting the semantic focus of the query to a more relevant or specific area, making results more accurate and useful.",
+    "transformation_rule": "Adjust the semantic focus of the query to align with the user's intent or the most relevant information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Media)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood in media contexts, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify terms in the query to ensure they are well-understood, especially for media information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Chemical)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood in chemical contexts, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify terms in the query to ensure they are well-understood, especially for chemical information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Context (Advanced)",
+    "description": "Improves retrieval by incorporating user-specific context, making results more personalized and relevant for advanced or specialized queries.",
+    "transformation_rule": "Include details about the user's specific situation or environment in the query, especially for advanced or specialized needs.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion (Media)",
+    "description": "Improves retrieval by expanding terms to include related concepts in media contexts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context, especially for media information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion (Chemical)",
+    "description": "Improves retrieval by expanding terms to include related concepts in chemical contexts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context, especially for chemical information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (Media)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in media contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for media information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (Chemical)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in chemical contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for chemical information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization (Media)",
+    "description": "Improves retrieval by standardizing terms or measurements in media contexts, making results more relevant and accurate for queries involving standardized information.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency, especially for media information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization (Chemical)",
+    "description": "Improves retrieval by standardizing terms or measurements in chemical contexts, making results more relevant and accurate for queries involving specific units.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency, especially for chemical information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Historical)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood in historical contexts, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify terms in the query to ensure they are well-understood, especially for historical information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Expansion (Historical)",
+    "description": "Improves retrieval by expanding terms to include related concepts in historical contexts, making results more comprehensive and relevant.",
+    "transformation_rule": "Expand the query to include related or broader terms that capture additional context, especially for historical information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (Historical)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in historical contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for historical information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Standardization (Historical)",
+    "description": "Improves retrieval by standardizing terms or measurements in historical contexts, making results more relevant and accurate for queries involving standardized information.",
+    "transformation_rule": "Use standardized terms or measurements in the query to ensure consistency, especially for historical information.",
+    "examples": [
+      [
+        "weather forecast radar map afghanistan",
+        "average temperature kabul"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Context (General)",
+    "description": "Improves retrieval by incorporating user-specific context in general contexts, making results more personalized and relevant.",
+    "transformation_rule": "Include details about the user's specific situation or environment in the query, especially for general information.",
+    "examples": [
+      [
+        "what does invokana cost",
+        "invokana price"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Measurement Standardization (General) - Expanded",
+    "description": "Improves retrieval by standardizing measurements in general contexts, making results more relevant and accurate for queries involving specific units. This pattern emphasizes the importance of using consistent measurement standards.",
+    "transformation_rule": "Use standardized measurement units in the query to ensure consistency, especially for general information. Ensure that all units are clearly defined and universally recognized.",
+    "examples": [
+      [
+        "us shoe size width",
+        "width of standard shoes"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with User Context (Job Search)",
+    "description": "Improves retrieval by incorporating user-specific context for job search queries, making results more personalized and relevant.",
+    "transformation_rule": "Include details about the user's specific situation or environment in the query, especially for job search information.",
+    "examples": [
+      [
+        "average salary respiratory therapist anchorage",
+        "average annual income for respiratory therapist Anchorage"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Simplification (Medical)",
+    "description": "Improves retrieval by simplifying complex terms or concepts in medical contexts, making results more accessible and relevant.",
+    "transformation_rule": "Simplify the query to use more common or straightforward language, especially for medical information.",
+    "examples": [
+      [
+        "what is rifabutin used for",
+        "does rifabutin really work for cold infections"
+      ]
+    ]
+  },
+  {
+    "pattern_name": "Clarify Intent with Term Clarification (Financial)",
+    "description": "Improves retrieval by clarifying terms that may be ambiguous or less commonly understood in financial contexts, making results more relevant and accurate.",
+    "transformation_rule": "Replace or clarify complex or technical terms to ensure they are well-understood, especially for financial information.",
+    "examples": [
+      [
+        "what does invokana cost",
+        "invokana price"
+      ]
+    ]
+  }
+]
