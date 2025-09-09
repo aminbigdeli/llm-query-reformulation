@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Conceptual Shift",
+  "timestamp": "20250909_052541",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish develop",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "The main action 'grow' was replaced with 'develop', which is a closely related concept that better aligns with the user's intent to understand the growth process of goldfish.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "what are wireless communication protocols",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from comparing WiFi and Bluetooth to a broader concept of wireless communication protocols, which encompasses both technologies.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "what were the reasons for us involvement in ww1",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'volunteerily enter' to 'reasons for involvement', which better aligns with understanding the motivations behind US participation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "definition declaratory relief",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'declaratory judgment' to 'declaratory relief', which is a closely related legal concept that better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "causes of pelvic discomfort on the right side",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'pain' to 'discomfort' which is a related but different concept that better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the factors influencing health outcomes",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'social determinants' to 'factors influencing health outcomes', which is a broader but related concept.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila lead to respiratory infection",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'pneumonia' to 'respiratory infection', which is a broader and related concept.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "what are the climate conditions in jamaica",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'weather' to 'climate conditions', which better aligns with understanding the overall weather patterns.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "causes of dysarthria in cerebral palsy",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'types' to 'causes', which better aligns with understanding the underlying factors contributing to dysarthria in individuals with cerebral palsy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "what are the contributions of robert gray",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from identifying Robert Gray to understanding his contributions, which better aligns with a deeper inquiry about him.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what are the best ingredients for sous vide cooking",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'types of food' to 'best ingredients', which better aligns with the intent of understanding suitable options for sous vide cooking.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "what is the lifespan of a flea",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'life cycle' to 'lifespan', which more directly addresses the duration of a flea's life.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can conservation tillage reduce",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Replaced 'contour plowing' with 'conservation tillage', a related agricultural practice that also aims to prevent soil erosion.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the charitable organization the salvation army established",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'founded' to 'established' and emphasized the concept of a 'charitable organization' to better align with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is a tectonic margin",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'active margin' to 'tectonic margin', which is a related concept that better aligns with the user's intent in understanding geological boundaries.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between registered nurse and bachelor of science in nursing",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from the abbreviations 'RN' and 'BSN' to their full names, which better align with the user's intent to understand the differences.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "medicare's criteria for mechanical ventilation coverage",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'definition' to 'criteria for coverage', which is a related concept that better aligns with understanding Medicare's policies on mechanical ventilation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to determine the median of a trapezoid",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'midsegment' to 'median', which is a closely related concept and better aligns with the user's intent in geometry.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what is a financial crime analyst",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'AML surveillance' to 'financial crime', which is a broader and related concept that better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what is the daily routine of thai individuals",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'daily life' to 'daily routine' to focus more on the structured activities and habits.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "definition of a significant meteorological information",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'sigmet' to 'significant meteorological information', which is the full form and better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete slab flooring",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'concrete flooring' to 'concrete slab flooring', which is a more specific and related concept.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what are the most beloved dishes in switzerland",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'most popular food' to 'most beloved dishes', which better aligns with the user's intent of understanding what foods are highly favored in Switzerland.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "how do some sharks maintain body temperature",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'warm blooded' to 'maintain body temperature' to better align with the user's intent of understanding how sharks regulate their body heat.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what are the components of durable medical equipment",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'consist of' to 'components of' to better align with the user's intent of understanding what makes up durable medical equipment.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "gene structure biology",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'exons' to 'gene structure', which is a broader but related concept that encompasses exons and provides more context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "what is visceral sensation",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'define' to a related concept 'sensation' which better aligns with understanding the term.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of xylem tissue.",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "The focus was shifted from a blank to a specific and related concept, 'xylem tissue', which better aligns with the user's intent to understand where tracheids are located.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "rsa encryption key",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'definition' to 'encryption', which is a more specific and related concept that aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "what countries are part of the commonwealth of independent states",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'who formed' to 'what countries are part of' to better align with the user's intent of understanding the composition of the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "factors contributing to left ventricular thickening",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'causes' to 'factors contributing to', which better aligns with understanding the various elements that lead to left ventricular hypertrophy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "lps legal framework explanation",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'laws definition' to 'legal framework explanation' to better align with the user's intent of understanding the broader context and structure.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the 3% movement members?",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'three percenters' to a more specific and related concept, '3% movement members', which better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "factors contributing to military mental health issues",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'causes of suicide' to 'factors contributing to mental health issues', which is a broader and related concept that better aligns with understanding the underlying issues.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm gel used for",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'theraderm' to 'theraderm gel' to better align with the user's intent of understanding a specific product.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what conditions does famvir treat",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'prescribed for' to 'treats' to better align with the user's intent of understanding the medical conditions addressed by Famvir.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological concept of ecological context",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'definition of environment' to 'concept of ecological context' to better align with the anthropological perspective.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "axon terminals or presynaptic terminal definition",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'synaptic knob' to 'presynaptic terminal', which is a more precise and commonly used term in neuroscience.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport part of greater paris",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'main Paris' to 'greater Paris' to better align with the user's intent of understanding the location of CDG Airport in relation to the broader metropolitan area.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of monotonic sequence",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'monotonic function' to 'monotonic sequence', which is a closely related concept in mathematics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the characteristics of spruce trees",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'physical description' to 'characteristics', which better aligns with understanding the attributes of spruce trees.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen transitions to liquid state below what temperature",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'is a liquid' to 'transitions to liquid state' to better align with the user's intent of understanding the phase change.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "comparison of ingredients in mcdouble vs double cheeseburger",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'difference' to a more specific aspect, 'comparison of ingredients', which better aligns with understanding the distinct elements of each burger.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

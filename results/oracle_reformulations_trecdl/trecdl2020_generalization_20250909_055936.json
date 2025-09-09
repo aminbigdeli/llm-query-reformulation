@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Generalization",
+  "timestamp": "20250909_055936",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "who are notable figures in business leadership",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific name 'Aziz Hashim' was replaced with a more general term 'notable figures in business leadership' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "who are prominent republican representatives?",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific name 'Rep Scalise' was replaced with a more general term 'prominent republican representatives' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who was responsible for the death of russian royalty",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'Nicholas II' was replaced with 'Russian royalty' to broaden the query while maintaining the intent of inquiring about responsibility for a significant historical event.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who performs theme songs for tv shows",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'monk' was replaced with a more general term 'tv shows' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "why do people modify their firearms?",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'hunters' was replaced with the more general term 'people', and 'pattern their shotguns' was generalized to 'modify their firearms'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "why are certain players excluded from the hall of fame",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'pete rose' with 'certain players' to broaden the query to cover a wider range of related scenarios.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "define geological terms",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'geon' was replaced with a more general category 'geological terms' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "explain statistical charts used for data analysis",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'Pareto chart' was replaced with a more general term 'statistical charts' to broaden the scope of the query while maintaining the intent of understanding a specific type of chart in statistics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "what are effective methods to clean clothes",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'best way' with 'effective methods' and 'white' with 'clean' to broaden the query to cover a wider range of cleaning techniques.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "what mediums do electromagnetic waves travel through",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'radio waves' with 'electromagnetic waves' to encompass a broader category of waves.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what are international organizations focused on food and agriculture",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'UN FAO' with a more general term to encompass a broader category of related organizations.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "what is the net worth of famous country music singers",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'Reba McEntire' with 'famous country music singers' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "what are countermeasures used in military aviation",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'chaff and flare' with 'countermeasures' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "what are nonconformities in geology?",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'earth science' was replaced with 'geology' to broaden the scope while maintaining relevance to the original query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "what can be done about workplace discrimination",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific location 'Oklahoma City' was removed to broaden the query to a wider range of locations.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "which amino acids are involved in carnitine synthesis",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'amino' was replaced with 'amino acids' to encompass a broader category of related compounds.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "what does shebang refer to in programming",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'meaning' was replaced with a more general phrase 'refer to' and the context was broadened to include 'programming' to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "how many children robert kraft has",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'sons' was replaced with 'children' to broaden the query and include all offspring.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual income for data professionals",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'data analyst' was replaced with 'data professionals' to encompass a broader category of roles.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "how does tissue repair begin",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'granulation tissue' was replaced with 'tissue repair' to cover a broader range of related processes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "difference between types of lodging facilities",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'hotel' and 'motel' with 'types of lodging facilities' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "difference between organizational strategy and business approach",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'company's' with 'organizational' and 'business model' with 'business approach' to broaden the scope.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "why did ancient civilizations name their lands based on color or geographical features?",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'ancient egyptians' with 'ancient civilizations' and 'kemet, or black land' with 'name their lands based on color or geographical features' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "what does bmt stand for in healthcare",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'medical' was replaced with 'healthcare' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "what are etruscans",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'define' was replaced with a more general question format to cover a broader range of information about the Etruscans.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of praiseworthy",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'laudable' with 'praiseworthy', a more general term that encompasses similar positive attributes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "explain how different body systems collaborate to facilitate movement",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'muscles and bones' with 'different body systems' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "do online document editors auto save",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'Google Docs' with 'online document editors' to broaden the query to cover a wider range of similar tools.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "which states have an income tax",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific state 'Mississippi' was replaced with a more general term 'states' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "what does the phrase 'dog day' refer to",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'afternoon' was replaced with a more general reference to the phrase 'dog day', broadening the query to cover the meaning of the entire phrase.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "are immigration records public information",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'naturalization' was replaced with 'immigration' to cover a broader range of related records.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "how long does it take to remove a tooth",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'wisdom tooth' was replaced with 'tooth' to broaden the query to cover any type of tooth removal.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "how much do professionals in public speaking earn",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'motivational speakers' with 'professionals in public speaking' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "what are the costs associated with installing renewable energy systems",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'wind turbine' was replaced with the more general term 'renewable energy systems' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "how often do small birds lay eggs",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'button quail' with 'small birds' to broaden the query to cover a wider range of related species.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "what is the age of famous british actresses",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'vanessa redgrave' with 'famous british actresses' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "suffix meanings in language",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'ia' was replaced with a more general term 'suffix meanings' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "are stimulants considered narcotics",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'caffeine' with 'stimulants' to broaden the query to cover a wider range of related substances.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "average salary for dental professionals in nebraska",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'dental hygienist' was replaced with 'dental professionals' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "average cost of wedding attire alterations",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'wedding dress' was replaced with 'wedding attire' to encompass a broader range of items that might need alterations.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "what are healthy foods to improve heart health",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'lower cholesterol' was replaced with 'improve heart health' to broaden the scope of the query while maintaining the intent of seeking dietary advice for cardiovascular well-being.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what are beta blockers used for",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'carvedilol' with 'beta blockers' to broaden the query to a wider class of medications.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does it mean if your thyroid levels are abnormal",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'TSH' with 'thyroid levels' to cover a broader range of related thyroid function tests.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "can health issues cause complications in early pregnancy",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'fever' with 'health issues' and 'miscarriage' with 'complications' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what are asset management systems",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'alm' with 'asset management systems' to cover a broader range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what are legal documents",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'statutory deed' was replaced with 'legal documents' to broaden the query and cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what are timekeeping devices and their inventors",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'chronometer' with 'timekeeping devices' to cover a broader range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "what are tropical fruits",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'mamey' with 'tropical fruits' to broaden the query and cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what materials are used in joint replacements",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'metal' was replaced with the more general term 'materials', and 'hip' was generalized to 'joint' to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what type of conflict does a character face in o. henry's short stories",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'Della' with 'a character' and 'the gift of the magi' with 'O. Henry's short stories' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what type of tissue are respiratory passages",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'bronchioles' with 'respiratory passages' to broaden the query while maintaining the focus on the respiratory system.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when did popular game shows first appear on television?",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'Family Feud' was replaced with a more general term 'popular game shows' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "when did popular music genres emerge?",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'rock n roll' was replaced with 'popular music genres' to broaden the query and cover a wider range of related musical movements.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where are popular TV shows filmed",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific show 'Shameless' was replaced with a more general term 'popular TV shows' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

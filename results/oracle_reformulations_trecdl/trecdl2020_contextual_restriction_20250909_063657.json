@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Contextual Restriction",
+  "timestamp": "20250909_063657",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "who is aziz hashim in the restaurant industry",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (restaurant industry) to narrow down the search results and provide more relevant information.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "who is rep scalise from louisiana",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (from Louisiana) to narrow down the search results and provide more precise information.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who killed nicholas ii of russia during the russian revolution",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific historical context (during the Russian Revolution) to narrow down the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who sings the theme song for the TV show monk",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (TV show) to narrow down the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "why do hunters pattern their shotguns for specific game types",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a constraint to specify the context of patterning shotguns for particular game types, narrowing down the scope.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "why is pete rose banned from hall of fame despite his hitting record",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (his hitting record) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "definition of geon in cognitive psychology",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (cognitive psychology) to narrow down the definition of 'geon'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "define pareto chart in quality control statistics",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to a specific application area, 'quality control', which is a common context for Pareto charts.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "best way to get clothes white using natural methods",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a constraint 'using natural methods' to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "what medium do radio waves travel through in a vacuum",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'in a vacuum' to specify the context under which the query is being asked, narrowing down the conditions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what is the un fao's role in global food security",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by adding a specific context, focusing on the UN FAO's role in global food security.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "Reba McEntire's net worth as of 2023",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a time constraint to specify the current year, refining the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "chaff and flare deployment techniques in military aviation",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to a specific scenario, focusing on the use of chaff and flares in military aviation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "definition of nonconformity in stratigraphy",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to a specific area within earth science, namely stratigraphy, to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "what can you do about discrimination in the workplace for employees in oklahoma city",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying 'for employees' to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "which amino acid produces carnitine in human metabolism",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (human metabolism) to narrow down the query and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "meaning of shebang in programming",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (programming) to narrow down the meaning of 'shebang'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "how many sons robert kraft has as of 2023",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a time constraint to specify the current status as of 2023.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual income data analyst in tech industry",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (tech industry) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "how does granulation tissue start after a wound",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added the context of 'after a wound' to narrow down the scenario in which granulation tissue starts forming.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "difference between a hotel and motel for short-term stays",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (short-term stays) to narrow down the comparison between hotels and motels.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "difference between a company's strategy and business model in the technology industry",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to the technology industry to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "why did ancient egyptians call their land kemet or black land during the pharaonic period",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a time constraint 'during the pharaonic period' to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "definition of bmt medical in oncology",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (oncology) to narrow down the definition of BMT in the medical field.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "definition of etruscans in ancient italy",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (ancient Italy) to narrow down the definition of Etruscans.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of laudable in legal terms",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (legal terms) to narrow down the definition of 'laudable'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "describe how muscles and bones work together to produce movement in the human arm",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying a particular part of the body, the human arm, to provide more focused results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "do google docs auto save when editing online",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition ('when editing online') to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "does mississippi have an income tax for residents",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a constraint to specify that the query is about income tax for residents of Mississippi.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "meaning of dog day afternoon in film",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to the context of the film, which is a specific scenario where this phrase might be used.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "are naturalization records public information for us citizens",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying 'for US citizens' to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "how long does it take to remove a wisdom tooth under general anesthesia",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (under general anesthesia) to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "how much money do motivational speakers make per year",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a time frame ('per year') to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "cost to install a residential wind turbine",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying that the wind turbine is for residential use.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "how often do button quail lay eggs in captivity",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (in captivity) to narrow down the query and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "vanessa redgrave age at the time of her first oscar win",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by adding a specific context (age at the time of her first Oscar win) to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "meaning of ia suffix in chemistry",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to a specific field, chemistry, to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "is caffeine classified as a narcotic under US drug laws",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying the context to 'US drug laws' to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "average salary for dental hygienist in nebraska with 5 years of experience",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (5 years of experience) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "average wedding dress alteration cost for a specific type of alteration",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a constraint to specify the type of alteration, narrowing down the context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "best foods to lower cholesterol for heart health",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (heart health) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what is carvedilol used for in treating hypertension",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying a condition (hypertension) to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does it mean if your tsh is low for a thyroid patient",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'for a thyroid patient' to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "can high fever during first trimester cause miscarriage",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying 'high fever' and 'first trimester' to provide more targeted results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what is alm in software development",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (software development) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what is a statutory deed in property law",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to a specific context, 'property law', to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what is a chronometer and who invented it for marine navigation",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added the context of 'marine navigation' to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "mamey fruit description",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to focus specifically on the description of the mamey fruit.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what metal are hip replacements made of for patients with metal allergies",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (patients with metal allergies) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what type of conflict does della face with her financial situation in o henry's the gift of the magi",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The query was refined by adding a specific context (financial situation) to narrow down the type of conflict Della faces.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what type of tissue are bronchioles in human lungs",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'in human lungs' to narrow down the context and specify the location of bronchioles.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when did family feud first air on television?",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying that the interest is in when the show first aired on television.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "when did rock n roll begin in the united states?",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a geographical constraint to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where is the show shameless filmed in north america",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a geographical constraint to narrow down the filming location of the show 'Shameless'.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

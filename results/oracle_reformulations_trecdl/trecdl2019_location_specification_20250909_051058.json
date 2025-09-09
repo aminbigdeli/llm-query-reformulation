@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Location Specification",
+  "timestamp": "20250909_051058",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow in home aquariums",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified 'in home aquariums' to provide a geographical context for where goldfish are typically kept.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "what is wifi vs bluetooth in a home environment",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in a home environment' to specify the location or context where WiFi and Bluetooth are being compared.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "why did the us voluntarily enter ww1 in europe",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in europe' to specify the geographical context of World War I.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "definition of declaratory judgment in the United States",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the United States' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "causes of pain in the right side of the pelvis",
+      "pattern_applied": "Location Specification",
+      "explanation": "The location 'right pelvic' was specified more precisely to 'the right side of the pelvis' to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the social determinants of health in the United States",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific location (United States) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila cause pneumonia in specific regions",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a reference to 'specific regions' to clarify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "medium"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "weather in montego bay jamaica",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified a specific location (Montego Bay) within Jamaica to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "types of dysarthria from cerebral palsy in children",
+      "pattern_applied": "Location Specification",
+      "explanation": "The pattern was not directly applicable as the query does not involve a geographical location. However, to maintain the intent and apply a form of specification, 'in children' was added to specify the demographic context.",
+      "applicable": false,
+      "confidence": "low"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who is robert gray from seattle washington",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific location (Seattle, Washington) to clarify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what types of food can you cook sous vide in a home kitchen",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in a home kitchen' to specify the location where the cooking is taking place.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "how long is life cycle of flea in temperate regions",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in temperate regions' to specify a geographical context where fleas are commonly found.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can contour plowing reduce in the midwestern united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific geographical context (midwestern United States) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the salvation army founded in london england",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified the location 'London, England' to clarify the geographical context of the founding of The Salvation Army.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is an active margin in the pacific northwest",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific geographical context (Pacific Northwest) to clarify the location of the active margin being referred to.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between rn and bsn in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the united states' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "medicare's definition of mechanical ventilation in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the united states' to specify the geographical context of Medicare.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to find the midsegment of a trapezoid",
+      "pattern_applied": "Location Specification",
+      "explanation": "The query does not involve a geographical location or region, so the Location Specification pattern is not applicable.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what is an aml surveillance analyst in new york",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in new york' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "daily life of people in Bangkok Thailand",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified the exact location (Bangkok, Thailand) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "definition of a sigmet for aviation in europe",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'for aviation in europe' to specify the geographical context and maintain the original intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete flooring in the United States",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the United States' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what is the most popular food in zurich switzerland",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified a city (Zurich) within Switzerland to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "how are some sharks warm blooded in the pacific ocean",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific geographical context (the Pacific Ocean) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what durable medical equipment is used in hospitals",
+      "pattern_applied": "Location Specification",
+      "explanation": "The location 'hospitals' was added to specify where the durable medical equipment is used, making the query more targeted.",
+      "applicable": true,
+      "confidence": "medium"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "exons definition biology in human genome",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified 'in human genome' to clarify the biological context of exons.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "define visceral in human anatomy",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified 'in human anatomy' to clarify the context of the definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of what plant tissue",
+      "pattern_applied": "Location Specification",
+      "explanation": "The pattern was not applicable as the query does not involve a geographical location. The original query is returned unchanged.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "rsa definition key",
+      "pattern_applied": "Location Specification",
+      "explanation": "The query does not contain a geographical context or location that can be specified. The original query is about a technical term and does not benefit from specifying a location.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "who formed the commonwealth of independent states in europe",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in europe' to specify the geographical context of the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of left ventricular hypertrophy in humans",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified 'in humans' to clarify the biological context, as the original query could be interpreted more broadly.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "lps laws definition in california",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in california' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the three percenters in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the United States' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "causes of military suicide in the United States",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the United States' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm used for in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the united states' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what is famvir prescribed for in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in the united states' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological definition of environment in the Amazon rainforest",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added a specific geographical context (Amazon rainforest) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "axon terminals or synaptic knob definition in neural synapses",
+      "pattern_applied": "Location Specification",
+      "explanation": "Specified the exact location (neural synapses) to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport located in central paris",
+      "pattern_applied": "Location Specification",
+      "explanation": "Clarified the location by specifying 'central' to make the query more targeted.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of monotonic function",
+      "pattern_applied": "Location Specification",
+      "explanation": "The pattern 'Location Specification' is not applicable to this query as it does not involve a geographical context.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "physical description of spruce in north america",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'in north america' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen is a liquid below what temperature on Earth",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'on Earth' to specify the location context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "difference between a mcdouble and a double cheeseburger at mcdonald's in the united states",
+      "pattern_applied": "Location Specification",
+      "explanation": "Added 'at mcdonald's in the united states' to specify the geographical context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

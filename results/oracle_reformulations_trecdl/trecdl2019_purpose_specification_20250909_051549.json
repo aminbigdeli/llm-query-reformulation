@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Purpose Specification",
+  "timestamp": "20250909_051549",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow to fit their environment",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of understanding if goldfish grow is specified as growing to fit their environment, which is a common context for this query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "what are the differences between wifi and bluetooth for wireless communication",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of both technologies is specified as 'wireless communication' to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "what were the reasons for the us voluntarily entering ww1",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of understanding the reasons behind the US decision, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "what is the purpose of a declaratory judgment",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of a declaratory judgment to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "right pelvic pain causes for diagnosis",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of identifying the causes is specified as being for diagnosis, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "how do social determinants of health impact public health outcomes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose or application of understanding social determinants of health is specified to focus on their impact on public health outcomes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila cause pneumonia in humans",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use or application by clarifying that the query is about the effect of Legionella pneumophila on humans.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "how is the weather in jamaica for planning a vacation",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of knowing the weather (for planning a vacation) was specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "types of dysarthria from cerebral palsy for diagnostic purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose or intended use (diagnostic purposes) was specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who is robert gray and what are his contributions",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of the query was specified to focus on understanding Robert Gray's contributions, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what types of food are suitable for cooking sous vide",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of sous vide cooking, focusing on the suitability of different foods.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "how long does a flea life cycle last for pest control purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of understanding the flea life cycle is specified as being for pest control, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what are the purposes of contour plowing to reduce soil erosion",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of contour plowing, focusing on its purpose to reduce soil erosion.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "what was the purpose of founding the salvation army",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application, focusing on the purpose behind the founding of The Salvation Army.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is the purpose of an active margin",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of an active margin to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between rn and bsn in nursing practice",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use or application (nursing practice) was specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "what is medicare's definition of mechanical ventilation for reimbursement purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use or application (for reimbursement purposes) was specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to use the midsegment of a trapezoid for geometric calculations",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose or application of finding the midsegment of a trapezoid is specified as being used for geometric calculations.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what are the responsibilities of an aml surveillance analyst",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application by focusing on the responsibilities of the role, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what aspects of daily life are important to thai people",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify what aspects of daily life are being inquired about, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "what is a sigmet used for in aviation",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of a SIGMET, which is to provide information about weather conditions that may affect aviation safety.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete flooring for residential use",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use (residential) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what is the most popular food in switzerland for traditional celebrations",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of identifying the most popular food was specified to be for traditional celebrations, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "what is the purpose of some sharks being warm blooded",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application, focusing on the purpose of some sharks being warm blooded.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what is durable medical equipment used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use of durable medical equipment, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "what is the definition of exons used for in biology",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of the definition of exons in the context of biology.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "define visceral for medical terminology",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use or application of the term 'visceral' to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of what structure in plants",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application by asking about the specific structure in plants where tracheids are found.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "what is rsa key used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use of RSA keys, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "what was the purpose of forming the commonwealth of independent states",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application by asking about the purpose behind the formation of the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of left ventricular hypertrophy for diagnostic purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of identifying the causes is specified as being for diagnostic purposes, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "what are lps laws used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of LPS laws, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the three percenters and their purpose",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Added a focus on the intended use or application of the 'three percenters' to make the query more specific.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "causes of military suicide for prevention strategies",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of understanding the causes is specified as being for developing prevention strategies.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm used for in skincare",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use of Theraderm to make the query more focused on its application in skincare.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what is famvir used to treat",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use of Famvir, focusing on what it treats.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological definition of environment for academic research",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use (academic research) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "what is the function of axon terminals or synaptic knobs",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or function of axon terminals and synaptic knobs, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport used for main paris travel",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of CDG airport, focusing on its role in Paris travel.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of monotonic function for calculus",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use or application (calculus) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the physical characteristics of spruce used for identification",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of identifying the physical description of spruce is specified to focus on its use for identification.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen's liquid state for cryogenic applications below what temperature",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of hydrogen as a liquid, specifically for cryogenic applications, is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "difference between a mcdouble and a double cheeseburger for nutritional comparison",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of comparing the two burgers is specified as being for nutritional purposes, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

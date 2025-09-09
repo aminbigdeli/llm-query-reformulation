@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Temporal Adjustment",
+  "timestamp": "20250909_061731",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "who is aziz hashim",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "who is rep scalise currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate time frame, aligning with the user's intent to know about Rep. Scalise in the present.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who killed nicholas ii of russia",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who sings monk theme song currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate time frame, assuming the user is interested in who performs the song at present.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "why do hunters pattern their shotguns before hunting season",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added a temporal context to specify when hunters typically pattern their shotguns.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "why was pete rose banned from hall of fame",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Adjusted 'is' to 'was' to reflect the historical nature of the ban.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "define: geon",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "define pareto chart in statistics",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "what is the best way to get clothes white now",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'now' to reflect a current or immediate time frame, aligning with the user's intent to find the best method currently available.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "what medium do radio waves travel through",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what is the current un fao",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "what was reba mcentire's net worth as of 2023",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query was adjusted to specify a more recent and relevant time frame, aligning with the user's likely intent to know the current or most recent net worth.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "what is chaff and flare",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "what is a nonconformity? earth science",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "what can you do about current discrimination in the workplace in oklahoma city",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to specify that the query is about present-day discrimination.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "what amino acid produces carnitine",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any temporal aspects that can be adjusted. The query is about a factual relationship between an amino acid and the production of carnitine, which is not time-dependent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "meaning of shebang",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "how many sons does robert kraft have currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query was adjusted to reflect a current time frame, ensuring the information sought is up-to-date.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual income data analyst 2023",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added a specific year to reflect the most current and relevant time frame for the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "how does granulation tissue begin",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Changed 'start' to 'begin' to better align with the user's intent regarding the initiation of the process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "difference between a hotel and motel",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "difference between a company's strategy and business model currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect the current state or understanding of the difference.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "why did ancient egyptians call their land kemet, or black land?",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The temporal aspect of the query is already appropriate for the historical context and does not require adjustment.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "define bmt medical",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "define etruscans",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of laudable",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "describe how muscles and bones work together to produce movement",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted. The intent is to understand the general mechanism of muscle and bone interaction, which is not time-specific.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "do google docs auto save currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect the user's intent of understanding the current functionality.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "does mississippi currently have an income tax",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect the present time frame and ensure the query is up-to-date.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "dog day afternoon meaning",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain a time-related term that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "are naturalization records public information today",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'today' to specify the current time frame for the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "how long does it take to recover from wisdom tooth removal",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Adjusted 'to remove' to 'to recover from removal' to better reflect the time frame of interest for the user.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "how much money do motivational speakers make annually",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The term 'make' was modified to 'make annually' to better align with a typical time frame for income.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "how much would it cost to install a wind turbine now",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The time-related term 'my own' was adjusted to 'now' to better align with the user's intent of understanding current costs.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "how often do button quail lay eggs",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query was adjusted to use a more standard phrasing for frequency, which better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "how old is vanessa redgrave currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame for the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "ia suffix meaning",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "is caffeine currently classified as a narcotic",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query was adjusted to reflect the current classification of caffeine, aligning with the user's intent to understand its status in the present time.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "average salary for dental hygienist in nebraska 2023",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added a specific year to reflect the most current and relevant data.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "average wedding dress alteration cost 2023",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added a specific year to reflect a more current and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "what are best foods to lower cholesterol currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect the current or most recent information on foods that can help lower cholesterol.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what carvedilol is currently used for",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query was adjusted to reflect a current usage context, aligning with the user's likely intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does it mean if your tsh is currently low",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to better align with the user's intent of understanding the current state.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "can fever during early pregnancy cause miscarriage",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Adjusted 'early pregnancy' to 'during early pregnancy' to better specify the time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what is a alm",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what is a statutory deed",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what is a chronometer and who invented it",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The temporal aspect of the query was not directly related to time, so no specific temporal adjustment was made. The query was slightly rephrased for clarity.",
+      "applicable": false,
+      "confidence": "low"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "what is mamey",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what metal are current hip replacements made of",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to reflect the most recent or modern materials used in hip replacements.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what type of conflict does della face in o. henry's 'the gift of the magi'",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query did not contain any explicit time-related terms that required adjustment. The original intent is maintained.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what type of tissue are bronchioles",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when did family feud first air?",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Changed 'come out' to 'first air' to better reflect the specific time of the show's debut.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "when did rock n roll originate?",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Changed 'begin' to 'originate' to better reflect the inception of rock n roll.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where is the show shameless currently filmed",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The term 'is' was modified to 'currently' to better reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

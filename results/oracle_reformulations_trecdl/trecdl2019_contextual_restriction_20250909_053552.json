@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Contextual Restriction",
+  "timestamp": "20250909_053552",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow in home aquariums",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was limited by adding a specific context (home aquariums) to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "differences between wifi and bluetooth for home devices",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to a specific scenario, focusing on the differences between WiFi and Bluetooth in the context of home devices.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "reasons for us voluntary entry into ww1",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to focus specifically on the reasons or factors that led to the US voluntarily entering WWI.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "definition of declaratory judgment in civil law",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying the context to 'civil law', which provides a more specific scenario for understanding the definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "right pelvic pain causes in women",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying a demographic, which can provide more targeted and relevant results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "social determinants of health in urban areas",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to focus specifically on urban areas, which provides a more specific context for the search.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila cause pneumonia in hospital environments",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (hospital environments) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "current weather conditions in jamaica",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'current' to specify the present weather conditions, narrowing down the context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "types of dysarthria specifically caused by cerebral palsy",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to focus specifically on dysarthria caused by cerebral palsy, adding a condition that refines the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "robert gray baseball player",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (baseball player) to narrow down the search results for Robert Gray.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "types of meat that can be cooked sous vide",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to a specific category of food, namely 'meat', to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "life cycle of flea under typical household conditions",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (typical household) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can contour plowing reduce on steep slopes",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (steep slopes) to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the salvation army founded in the united kingdom",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific location (United Kingdom) to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "active margin in plate tectonics",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down to a specific context within geology, focusing on plate tectonics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between rn and bsn in the context of nursing education",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (nursing education) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "medicare's definition of mechanical ventilation for home use",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (for home use) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to find the midsegment of a trapezoid given its base lengths",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (given its base lengths) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "responsibilities of an aml surveillance analyst in a financial institution",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying the context to 'in a financial institution' to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "daily life of thai people in urban areas",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down by specifying 'urban areas' to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "definition of a sigmet in aviation meteorology",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'in aviation meteorology' to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete flooring for a 1000 sq ft home",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (for a 1000 sq ft home) to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "most popular food in switzerland among tourists",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (among tourists) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "which species of sharks are warm blooded",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to specific shark species that exhibit warm-blooded characteristics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what does durable medical equipment consist of for home use",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (for home use) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "definition of exons in eukaryotic biology",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to specifically focus on exons within the context of eukaryotic biology.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "define visceral in medical terminology",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (medical terminology) to narrow down the definition of 'visceral'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of which plant tissue type",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed by specifying that tracheids are a component of a particular type of plant tissue, refining the search to focus on their role in plant anatomy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "rsa definition key in cryptography",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'in cryptography' to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "who formed the commonwealth of independent states after the dissolution of the soviet union",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (after the dissolution of the Soviet Union) to narrow down the time frame and provide more precise results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of left ventricular hypertrophy in patients with hypertension",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying a specific condition (hypertension) to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "definition of lps laws in the context of real estate",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (real estate) to narrow down the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the three percenters in the context of american militia movements",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (American militia movements) to narrow down the search results and provide more relevant information.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "causes of military suicide among veterans",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope was narrowed down to focus specifically on veterans, which is a more specific group within the military population.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm used for in dermatological treatments",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (dermatological treatments) to narrow down the usage of Theraderm.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what is famvir prescribed for shingles",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific condition (shingles) to narrow down the context of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological definition of environment in urban settings",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by adding a specific context, 'urban settings', to refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "axon terminals or synaptic knob definition in neuroscience textbooks",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (neuroscience textbooks) to narrow down the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport located within the city limits of paris",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "The scope of the query was narrowed down by specifying that the location is being considered within the city limits of Paris.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of a monotonic function in calculus",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'in calculus' to narrow down the context and refine the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "physical description of spruce trees in a forest",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added a specific context (in a forest) to narrow down the search results.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen is a liquid below what temperature under standard atmospheric pressure",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'under standard atmospheric pressure' to specify the conditions under which hydrogen remains in a liquid state.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "difference between a mcdouble and a double cheeseburger at mcdonald's",
+      "pattern_applied": "Contextual Restriction",
+      "explanation": "Added 'at mcdonald's' to specify the context, ensuring the comparison is within the same restaurant chain.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

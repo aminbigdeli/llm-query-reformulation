@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Conceptual Shift",
+  "timestamp": "20250909_062411",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "what are aziz hashim's contributions to business",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from identifying Aziz Hashim to understanding his contributions, which better aligns with a deeper inquiry into his significance.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "what is steve scalise's role in congress",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'who is' to a related concept of understanding his role, which better aligns with the user's intent to learn about Steve Scalise.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who was responsible for nicholas ii of russia's death",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'killed' to 'responsible for...death', which better aligns with understanding the circumstances and parties involved in Nicholas II's demise.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who performs monk theme song",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'sings' to 'performs' to better align with the user's intent of identifying the artist responsible for the theme song.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "why do hunters adjust their shotgun patterns",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'patterning' to 'adjusting patterns,' which better aligns with the user's intent of understanding the process and purpose.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "what are the reasons for pete rose's exclusion from the hall of fame",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'banned' to 'reasons for exclusion' to better align with the user's intent of understanding the underlying causes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "define: geophysical",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'geon' to 'geophysical', a related concept that better aligns with potential user intent in understanding geological or Earth-related terms.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "what is a pareto analysis in statistics",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'pareto chart' to 'pareto analysis', which is a related concept that better aligns with understanding the statistical method.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "what is the best method to whiten clothes",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'get clothes white' to 'whiten clothes', which more precisely aligns with the intent of improving the appearance of clothes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "how do radio waves propagate",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'travel through' to 'propagate', which better aligns with understanding the movement and transmission of radio waves.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what is the un food and agriculture organization",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'UN FAO' to 'UN Food and Agriculture Organization' to provide a more descriptive term that aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "what are reba mcentire's financial assets",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'net worth' to 'financial assets', which is a closely related concept that better aligns with understanding her wealth.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "what are countermeasures against heat-seeking missiles",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'chaff and flare' to a broader concept of 'countermeasures against heat-seeking missiles', which better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "what is a geological anomaly earth science",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "The term 'nonconformity' was replaced with 'geological anomaly', which is a closely related concept in the field of earth science.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "how to address workplace inequality in oklahoma city",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'discrimination' to 'inequality', which is a broader but related concept that better aligns with addressing issues in the workplace.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "what amino acid synthesizes carnitine",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'produces' to 'synthesizes' to better align with the biochemical process of carnitine formation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "what is shebang in scripting",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'meaning' to a more specific context of 'scripting' to better align with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "what is robert kraft's family structure",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from specifically asking about the number of sons to a broader question about Robert Kraft's family structure, which still aligns with the intent of understanding his family.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual salary data analyst",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'income' to 'salary' as it is a more specific and commonly used term in job-related contexts.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "how does wound healing begin",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "The focus was shifted from 'granulation tissue' to 'wound healing', which is a broader and related concept that better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "difference between a lodging facility and a rest stop",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'hotel' and 'motel' to more general concepts of 'lodging facility' and 'rest stop' which are related but different.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "difference between a company's strategic planning and business model",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'strategy' to 'strategic planning' to better align with the user's intent of understanding the detailed process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "what was the significance of the name kemet for ancient egyptians",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'why they called it' to 'the significance of the name', which better aligns with understanding the cultural importance.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "what is bone marrow transplantation",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'define bmt medical' to a more specific and related concept, 'bone marrow transplantation', which better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "what are etruscan civilization characteristics",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from defining 'Etruscans' to understanding the characteristics of Etruscan civilization, which better aligns with the user's intent to learn about this ancient culture.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of praiseworthy",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted from 'laudable' to 'praiseworthy', which is a closely related concept that better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "explain the biomechanics of muscle and bone interaction during movement",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'describe how muscles and bones work together' to 'biomechanics of muscle and bone interaction', which better aligns with a scientific understanding of the process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "does google docs have real-time saving",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'auto save' to 'real-time saving', which is a closely related concept that better aligns with the user's intent of understanding how Google Docs handles automatic data preservation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "what are the tax laws for residents of mississippi",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'income tax' to a broader concept of 'tax laws for residents' which better aligns with understanding the overall tax situation in Mississippi.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "dog day afternoon film interpretation",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'meaning' to 'film interpretation' to better align with a potential interest in understanding the context or significance of the film.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "are citizenship records public information",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'naturalization' to 'citizenship', which is a closely related concept and better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "what is the recovery time for wisdom tooth extraction",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'remove' to 'recovery time' which better aligns with the user's intent of understanding the process and timeline.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "what is the average income for motivational speakers",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'how much money' to 'average income', which better aligns with understanding the typical earnings of motivational speakers.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "what are the costs associated with setting up a personal wind turbine",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'install' to 'setting up' which encompasses more aspects of the process, better aligning with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "what is the egg-laying cycle of button quail",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'how often' to 'egg-laying cycle', which better aligns with understanding the frequency and pattern of egg laying.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "what is vanessa redgrave's birth year",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'how old' to 'birth year', which better aligns with the intent of understanding her age.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "ia suffix linguistic significance",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'meaning' to 'linguistic significance' to better align with the user's intent of understanding the importance and usage of the suffix in language.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "is caffeine a stimulant",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'narcotic' to 'stimulant', which is a more accurate classification for caffeine.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "average earnings for dental hygienist in nebraska",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted 'salary' to 'earnings' as a more comprehensive term that includes various forms of compensation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "average cost of wedding dress adjustments",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'alteration' to 'adjustments', which is a closely related concept and better aligns with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "what are best dietary choices to reduce cholesterol",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'foods' to 'dietary choices' to better align with the user's intent of understanding broader nutritional strategies.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what are the therapeutic uses of carvedilol",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'used for' to 'therapeutic uses' to better align with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does a low tsh indicate about thyroid function",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'what it means' to 'what it indicates about thyroid function', which better aligns with understanding the implications of a low TSH level.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "can high body temperature affect early pregnancy",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'fever' to 'high body temperature' to better align with the user's intent of understanding the impact on early pregnancy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what is asset lifecycle management",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'alm' to 'asset lifecycle management', which is a more specific and related concept.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what is a legal instrument",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'statutory deed' to 'legal instrument', which is a broader but related concept that better aligns with understanding the nature of such documents.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what is a chronometer's function and history",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted focus from 'who invented it' to 'function and history' to better align with the user's intent of understanding the chronometer.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "what is mamey fruit",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'mamey' to 'mamey fruit' to better align with the user's intent of understanding the specific type of fruit.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what materials are used in hip replacement surgery",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'metal' to 'materials' to better align with the user's intent of understanding the components used in hip replacements.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what type of internal struggle does della experience in o. henry's the gift of the magi",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'conflict' to 'internal struggle' to better align with the character's personal challenges.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what type of respiratory tissue are bronchioles",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'tissue' to 'respiratory tissue' to better align with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when was family feud first aired?",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'come out' to 'first aired' which better aligns with the user's intent of finding the debut date of the show.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "when did rock music originate?",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'rock n roll' to 'rock music', which is a more inclusive term that better aligns with the user's intent to understand the origins of this genre.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where is the show shameless produced",
+      "pattern_applied": "Conceptual Shift",
+      "explanation": "Shifted the focus from 'filmed' to 'produced', which better aligns with understanding the overall creation process of the show.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Purpose Specification",
+  "timestamp": "20250909_061139",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "who is aziz hashim",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The pattern 'Purpose Specification' is not applicable to this query as it does not involve a product, service, or concept that can be clarified by specifying its intended use.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "what are the roles and responsibilities of rep scalise",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application, focusing on the roles and responsibilities of Rep Scalise.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who was responsible for the assassination of nicholas ii of russia",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use, which is to identify the person or group responsible for the assassination.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who sings the theme song for the tv show monk",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use by clarifying that the query is about identifying the singer of the theme song for the TV show 'Monk'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "what is the purpose of patterning shotguns for hunting",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use (hunting) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "what are the reasons for pete rose's ban from the hall of fame",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use, which is to understand the reasons behind Pete Rose's ban.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "what is the purpose of geon",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of 'geon' to make it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "what is a pareto chart used for in statistical analysis",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of a Pareto chart in statistical analysis to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "what is the best method to whiten clothes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of whitening clothes is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "what medium do radio waves travel through for communication",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of radio wave transmission, which is primarily for communication, has been specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what is the purpose of the un fao",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of the UN FAO, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "what is reba mcentire's net worth used for financial assessments",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of Reba McEntire's net worth information was specified to focus on its application in financial assessments.",
+      "applicable": true,
+      "confidence": "medium"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "what are chaff and flare used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of chaff and flare to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "what is the purpose of identifying nonconformities in earth science",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of understanding nonconformities within the context of earth science.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "what actions can be taken to address workplace discrimination in oklahoma city",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of identifying actionable steps to address workplace discrimination.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "which amino acid is used for producing carnitine",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of the amino acid, which is for producing carnitine.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "what is the purpose of shebang in scripts",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of shebang, focusing on its role in scripts.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "how many sons does robert kraft have for family tree purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of knowing the number of sons is specified as being for a family tree, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual income for a data analyst position",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use of the average annual income data, focusing on the data analyst position.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "what is the purpose of granulation tissue formation",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of granulation tissue, focusing on its purpose in the healing process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "intended use of hotels versus motels",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to focus on the intended use or application of hotels and motels, making it more specific.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "how to distinguish between a company's strategy and business model",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of understanding the distinction, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "what was the purpose of calling ancient egypt kemet or black land",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application by asking about the purpose behind naming the land 'Kemet' or 'Black Land'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "what is bmt used for in medical treatments",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use of BMT (Bone Marrow Transplant) in a medical context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "what is the purpose of studying etruscans",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of studying Etruscans, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of laudable for academic writing",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use (academic writing) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "what is the function of muscles and bones working together to produce movement",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application, focusing on the function of muscles and bones in producing movement.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "how does google docs auto save work for document recovery",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of Google Docs' auto-save feature, focusing on its purpose for document recovery.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "what is the purpose of mississippi's income tax",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of Mississippi's income tax, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "what does 'dog day afternoon' mean",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of understanding the meaning of the phrase.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "how can naturalization records be used for genealogical research",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of naturalization records is specified as being for genealogical research to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "how long does it take to remove a wisdom tooth for recovery",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of the removal is specified as being for recovery, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "what is the typical income range for motivational speakers",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of understanding the income range, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "what would it cost to install a wind turbine for residential energy generation",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of the wind turbine (for residential energy generation) is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "what is the egg-laying frequency of button quail for breeding purposes",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of understanding the egg-laying frequency was specified as being for breeding purposes, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "how old is vanessa redgrave for a biography",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use of the information (for a biography) to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "what does the ia suffix mean in linguistic terms",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of understanding the meaning of the 'ia' suffix is specified as being in linguistic terms to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "is caffeine used as a narcotic",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of caffeine, focusing on whether it is used as a narcotic.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "average salary for dental hygienist in nebraska for job postings",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "Specified the intended use of the salary information, focusing on job postings.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "cost of altering a wedding dress for better fit",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of the alteration (for better fit) is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "what are the best foods to lower cholesterol for heart health",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use of lowering cholesterol is specified as being for heart health, making the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what is carvedilol used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of carvedilol, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does a low tsh level indicate about thyroid function",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of understanding what a low TSH level indicates about thyroid function.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "what are the risks of fever during early pregnancy on miscarriage",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use, which is to understand the risks associated with fever in early pregnancy regarding miscarriage.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what is the purpose of alm",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use or application of 'alm' is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what is a statutory deed used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The intended use or application of a statutory deed is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what is the purpose of a chronometer and who invented it",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of a chronometer to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "what is mamey used for",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of mamey, making it more focused.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what metals are used for hip replacement implants",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was reformulated to specify the intended use of the metals, focusing on their application in hip replacement implants.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what is the purpose of della's conflict in o henry's the gift of the magi",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application, focusing on the purpose of Della's conflict.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what is the function of bronchioles in the respiratory system",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The query was transformed to specify the intended use or application of bronchioles, focusing on their function within the respiratory system.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when was family feud first aired for public viewing",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use of identifying when the show became available to the public.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "what was the purpose of rock n roll when it began",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The reformulated query specifies the intended use or application of rock n roll at its inception, focusing on its purpose.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where is the filming location for the show shameless",
+      "pattern_applied": "Purpose Specification",
+      "explanation": "The purpose of finding the filming location is specified to make the query more focused.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Semantic Clarification",
+  "timestamp": "20250909_035641",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow larger",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The term 'grow' was clarified to 'grow larger' to specify the aspect of growth being inquired about.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "comparison between wifi and bluetooth technologies",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'what is' with 'comparison between' to clarify the intent of comparing two technologies.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "why did the united states voluntarily enter world war i",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'us' with 'united states' and 'ww1' with 'world war i' to clarify the terms.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "definition of declaratory judgment",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Added 'of' to clarify that the definition is being sought for the term 'declaratory judgment'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "causes of right-sided pelvic pain",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'right pelvic pain' with 'right-sided pelvic pain' to specify the location more clearly.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the key factors that influence health outcomes",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'social determinants' with 'key factors that influence health outcomes' to make the query more specific and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila bacteria cause pneumonia",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The term 'legionella pneumophila' was clarified by specifying it as a bacteria to make the query more precise and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "current weather conditions in jamaica",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'weather' with 'current weather conditions' to make the query more specific and clear.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "specific types of dysarthria associated with cerebral palsy",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'types' with 'specific types' and added 'associated with' to clarify the relationship between dysarthria and cerebral palsy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who is robert gray",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The name 'robert gray' is already specific and does not contain ambiguous terms that need clarification.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "which specific types of food are suitable for sous vide cooking",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'types of food' with 'specific types of food' and 'can you cook' with 'are suitable for' to make the query more precise.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "what is the duration of a flea's life cycle",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'how long' with 'what is the duration of' to make the query more specific and clear.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can contour plowing reduce soil erosion",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The term 'reduce' was clarified by specifying what it reduces, which is 'soil erosion', to make the query more specific and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the salvation army established",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'founded' with 'established' to make the query more precise and contextually relevant.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is an active tectonic margin",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'active margin' with 'active tectonic margin' to provide more context and clarity.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between registered nurse (RN) and bachelor of science in nursing (BSN)",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'rn' and 'bsn' with their full, contextually relevant terms to clarify the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "medicare's definition of mechanical breathing support",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'mechanical ventilation' with 'mechanical breathing support' to clarify the term and make it more understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to calculate the midsegment of a trapezoid",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'find' with 'calculate' to specify the action more precisely.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what are the responsibilities of an aml surveillance analyst",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'is' with 'responsibilities of' to clarify the role and duties of the position.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what are the daily activities of people in thailand",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'daily life' with 'daily activities' to make the query more specific and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "definition of a significant meteorological information (SIGMET) alert",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'sigmet' with its full form and context to clarify the term.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "price of interior concrete flooring installation",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'cost' with 'price' and added 'installation' to clarify the specific aspect of the cost being inquired about.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what are the most commonly consumed foods in switzerland",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'popular' with 'commonly consumed' to specify the context of popularity.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "which sharks are endothermic",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'warm blooded' with 'endothermic' to clarify the biological term and make the query more precise.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what components make up durable medical equipment",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'consist of' with 'components make up' to clarify the query and make it more specific.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "definition of exons in molecular biology",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'biology' with 'molecular biology' to provide a more specific context for the definition of exons.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "what does visceral mean",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'define' with a more direct question format to clarify the intent of understanding the meaning of 'visceral'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of which plant tissue",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced the blank with a more specific and contextually relevant term 'which plant tissue' to clarify the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "definition of rsa key",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'rsa definition key' with more precise terms to clarify the intent, focusing on defining what an RSA key is.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "which countries formed the commonwealth of independent states",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'who' with 'which countries' to clarify that the query is about the entities (countries) involved in forming the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of left ventricular thickening",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'hypertrophy' with 'thickening' to make the term more specific and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "definition of lps laws",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'lps laws definition' with a more specific and clear phrasing to directly ask for the definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the 3%ers in american politics",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'three percenters' with '3%ers in american politics' to clarify the ambiguous term and provide context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "reasons for suicide among military personnel",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'causes' with 'reasons' and specified 'military personnel' to clarify the context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm gel used for",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The term 'theraderm' was clarified by specifying it as 'theraderm gel' to provide more context and precision.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "for which conditions is famvir prescribed",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'what is' with 'for which conditions' to make the query more specific and clear.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological definition of ecological environment",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "The term 'environment' was replaced with 'ecological environment' to provide more context and specificity within the anthropological field.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "definition of axon terminals or synaptic knobs",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'axon terminals or synaptic knob' with 'axon terminals or synaptic knobs' to clarify the terms and ensure they are contextually relevant.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport located in central paris",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'main' with 'central' to clarify the location context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of a function that is either always increasing or always decreasing",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'monotonic function' with a more precise description to clarify the nature of the function.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the physical characteristics of spruce",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'physical description' with 'physical characteristics' to make the query more specific and understandable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen becomes a liquid below what temperature",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Replaced 'is a liquid' with 'becomes a liquid' to clarify the phase transition and make the query more specific.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "difference between a McDonald's McDouble and a double cheeseburger",
+      "pattern_applied": "Semantic Clarification",
+      "explanation": "Clarified 'McDouble' by specifying it is from McDonald's to avoid ambiguity.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

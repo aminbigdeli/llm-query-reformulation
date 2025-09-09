@@ -1,0 +1,494 @@
+{
+  "dataset": "trecdl2020",
+  "pattern": "Clarify Subject",
+  "timestamp": "20250909_064319",
+  "total_queries": 54,
+  "reformulations": [
+    {
+      "qid": "1030303",
+      "original_query": "who is aziz hashim",
+      "reformulated_query": "who is aziz hashim",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The subject 'aziz hashim' is already clear and specific, no further clarification needed.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037496",
+      "original_query": "who is rep scalise?",
+      "reformulated_query": "who is steve scalise",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'rep scalise' was clarified to 'steve scalise' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1043135",
+      "original_query": "who killed nicholas ii of russia",
+      "reformulated_query": "who was responsible for nicholas ii of russia's death",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'Nicholas II of Russia' is clarified to specify the context of his death, ensuring the query accurately reflects the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1051399",
+      "original_query": "who sings monk theme song",
+      "reformulated_query": "who sings the theme song for monk",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'monk theme song' was refined to 'the theme song for monk' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1064670",
+      "original_query": "why do hunters pattern their shotguns?",
+      "reformulated_query": "what is the purpose of patterning shotguns for hunters",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'hunters pattern their shotguns' was refined to 'the purpose of patterning shotguns for hunters' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1071750",
+      "original_query": "why is pete rose banned from hall of fame",
+      "reformulated_query": "why is pete rose ineligible for the hall of fame",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'pete rose' was clarified to better reflect his status as being ineligible, which more accurately represents the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1105792",
+      "original_query": "define: geon",
+      "reformulated_query": "what is the definition of geon",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'geon' was clarified to explicitly ask for its definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106979",
+      "original_query": "define pareto chart in statistics",
+      "reformulated_query": "what is a pareto chart in statistical analysis",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'pareto chart' was refined to 'a pareto chart in statistical analysis' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1108651",
+      "original_query": "what the best way to get clothes white",
+      "reformulated_query": "what is the best method to whiten clothes",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'best way' was refined to 'best method' to better reflect the user's intent of finding an effective technique.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1109707",
+      "original_query": "what medium do radio waves travel through",
+      "reformulated_query": "what medium do radio waves propagate through",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Replaced 'travel' with 'propagate' to more accurately reflect the technical nature of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110678",
+      "original_query": "what is the un fao",
+      "reformulated_query": "what is the united nations food and agriculture organization",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'un fao' was expanded to its full name 'United Nations Food and Agriculture Organization' for clarity.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113256",
+      "original_query": "what is reba mcentire's net worth",
+      "reformulated_query": "what is reba mcentire's current net worth",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Added 'current' to clarify that the query is about Reba McEntire's present financial status.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115210",
+      "original_query": "what is chaff and flare",
+      "reformulated_query": "what are chaff and flare used for",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'chaff and flare' was refined to better reflect the user's intent by specifying their usage.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1116380",
+      "original_query": "what is a nonconformity? earth science",
+      "reformulated_query": "what is a nonconformity in earth science",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'nonconformity' was clarified by specifying its context within earth science.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121353",
+      "original_query": "what can you do about discrimination in the workplace in oklahoma city",
+      "reformulated_query": "what measures can be taken to address workplace discrimination in oklahoma city",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'what can you do' was refined to 'what measures can be taken' to better reflect the user's intent of seeking specific actions or solutions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1122767",
+      "original_query": "what amino produces carnitine",
+      "reformulated_query": "which amino acid produces carnitine",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'amino' was refined to 'amino acid' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1127540",
+      "original_query": "meaning of shebang",
+      "reformulated_query": "what does shebang mean in programming",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'shebang' was clarified to specify its context in programming.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1131069",
+      "original_query": "how many sons robert kraft has",
+      "reformulated_query": "how many sons does robert kraft have",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'robert kraft' was clarified to ensure it is accurately represented in the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1132532",
+      "original_query": "average annual income data analyst",
+      "reformulated_query": "average annual income for data analyst",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'data analyst' was refined to better reflect the user's intent by specifying it as 'for data analyst'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133579",
+      "original_query": "how does granulation tissue start",
+      "reformulated_query": "what initiates the formation of granulation tissue",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'granulation tissue start' was refined to 'initiates the formation of granulation tissue' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136043",
+      "original_query": "difference between a hotel and motel",
+      "reformulated_query": "what are the differences between hotels and motels",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject was refined to clearly specify that the query is about understanding the differences between hotels and motels.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136047",
+      "original_query": "difference between a company's strategy and business model is",
+      "reformulated_query": "what is the difference between a company's strategy and its business model",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject was refined to clearly specify both 'company's strategy' and 'business model'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1136962",
+      "original_query": "why did the ancient egyptians call their land kemet, or black land?",
+      "reformulated_query": "what was the significance of ancient egyptians referring to their land as kemet or black land",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'ancient egyptians call their land kemet, or black land' was refined to better reflect the user's intent by focusing on the significance of this naming.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "118440",
+      "original_query": "define bmt medical",
+      "reformulated_query": "what does bmt stand for in medical terms",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'bmt' was clarified to specify that the user is looking for its meaning in a medical context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "121171",
+      "original_query": "define etruscans",
+      "reformulated_query": "who were the etruscans",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'etruscans' was refined to 'who were the etruscans' to better reflect the user's intent of understanding who they are.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "135802",
+      "original_query": "definition of laudable",
+      "reformulated_query": "definition of laudable in English",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Added 'in English' to clarify the language context of the definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "141630",
+      "original_query": "describe how muscles and bones work together to produce movement",
+      "reformulated_query": "how do muscles and bones interact to facilitate movement",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'muscles and bones' was refined to better reflect their interaction in the context of producing movement.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "156498",
+      "original_query": "do google docs auto save",
+      "reformulated_query": "does google docs automatically save changes",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'google docs' was clarified to specify that the query is about the automatic saving of changes in Google Docs.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "169208",
+      "original_query": "does mississippi have an income tax",
+      "reformulated_query": "does the state of mississippi have an income tax",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'mississippi' was refined to 'the state of mississippi' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "174463",
+      "original_query": "dog day afternoon meaning",
+      "reformulated_query": "what does 'dog day afternoon' mean",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'dog day afternoon meaning' was refined to 'what does dog day afternoon mean' to better reflect the user's intent of understanding the phrase.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "23849",
+      "original_query": "are naturalization records public information",
+      "reformulated_query": "are naturalization records considered public information",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'naturalization records' was clarified to better reflect the user's intent by adding 'considered'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "258062",
+      "original_query": "how long does it take to remove wisdom tooth",
+      "reformulated_query": "how long does it take to extract a wisdom tooth",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Replaced 'remove' with 'extract' to more accurately reflect the surgical procedure involved.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "324585",
+      "original_query": "how much money do motivational speakers make",
+      "reformulated_query": "what is the average income for motivational speakers",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'how much money' was refined to 'average income' to better reflect the user's intent of understanding the earnings of motivational speakers.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "330975",
+      "original_query": "how much would it cost to install my own wind turbine",
+      "reformulated_query": "what is the cost to install a personal wind turbine",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'install my own wind turbine' was refined to 'install a personal wind turbine' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "332593",
+      "original_query": "how often to button quail lay eggs",
+      "reformulated_query": "what is the egg-laying frequency of button quail",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'button quail' was clarified to specify the focus on their egg-laying frequency.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "336901",
+      "original_query": "how old is vanessa redgrave",
+      "reformulated_query": "what is vanessa redgrave's age",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'vanessa redgrave' was clarified to specifically ask about her age.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "390360",
+      "original_query": "ia suffix meaning",
+      "reformulated_query": "what does the ia suffix mean",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'ia suffix' was clarified to better reflect the user's intent by specifying what is being asked about the suffix.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405163",
+      "original_query": "is caffeine an narcotic",
+      "reformulated_query": "is caffeine classified as a narcotic",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'caffeine' was clarified to better reflect the user's intent by specifying that the query is about its classification.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "42255",
+      "original_query": "average salary for dental hygienist in nebraska",
+      "reformulated_query": "what is the average salary for a dental hygienist in nebraska",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'average salary for dental hygienist' was refined to 'the average salary for a dental hygienist' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47210",
+      "original_query": "average wedding dress alteration cost",
+      "reformulated_query": "what is the average cost of wedding dress alterations",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'average wedding dress alteration cost' was refined to 'the average cost of wedding dress alterations' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "555530",
+      "original_query": "what are best foods to lower cholesterol",
+      "reformulated_query": "what are the most effective foods for lowering cholesterol",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'best foods' was refined to 'most effective foods for lowering cholesterol' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "583468",
+      "original_query": "what carvedilol used for",
+      "reformulated_query": "what is carvedilol used for",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'carvedilol' was clarified to ensure it is accurately represented in the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "640502",
+      "original_query": "what does it mean if your tsh is low",
+      "reformulated_query": "what does a low tsh level indicate",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'tsh is low' was refined to 'low tsh level' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "67316",
+      "original_query": "can fever cause miscarriage early pregnancy",
+      "reformulated_query": "can a fever during early pregnancy cause miscarriage",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'fever' was refined to 'a fever during early pregnancy' to better reflect the user's intent and context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "673670",
+      "original_query": "what is a alm",
+      "reformulated_query": "what is alm software",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'alm' was refined to 'alm software' to better reflect the user's intent, assuming they are asking about Application Lifecycle Management software.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "701453",
+      "original_query": "what is a statutory deed",
+      "reformulated_query": "what is a statutory deed in legal terms",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'statutory deed' was refined to include 'in legal terms' to better reflect the user's intent of understanding its legal definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "730539",
+      "original_query": "what is chronometer who invented it",
+      "reformulated_query": "what is a chronometer and who invented it",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'chronometer' was clarified to ensure it is accurately represented, and the query structure was slightly adjusted for clarity.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "768208",
+      "original_query": "what is mamey",
+      "reformulated_query": "what is a mamey fruit",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'mamey' was refined to 'a mamey fruit' to better reflect the user's intent of understanding what mamey is.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "877809",
+      "original_query": "what metal are hip replacements made of",
+      "reformulated_query": "what materials are used in hip replacements",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'metal' was replaced with 'materials' to better reflect that hip replacements can be made of various substances, not just metal.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "911232",
+      "original_query": "what type of conflict does della face in o, henry the gift of the magi",
+      "reformulated_query": "what type of conflict does della face in o. henry's story 'the gift of the magi'",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Refined the main subject to specify that Della is a character in O. Henry's story 'The Gift of the Magi'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "914916",
+      "original_query": "what type of tissue are bronchioles",
+      "reformulated_query": "what type of tissue are bronchioles made of",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'bronchioles' was refined to 'bronchioles made of' to better reflect the user's intent to understand the tissue composition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "938400",
+      "original_query": "when did family feud come out?",
+      "reformulated_query": "when did the game show family feud first air?",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'family feud' was clarified to specify it as a game show and the query now asks about its first airing.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "940547",
+      "original_query": "when did rock n roll begin?",
+      "reformulated_query": "when did rock and roll music originate?",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'rock n roll' was refined to 'rock and roll music' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "997622",
+      "original_query": "where is the show shameless filmed",
+      "reformulated_query": "where is the TV show Shameless filmed",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'show' was refined to 'TV show' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

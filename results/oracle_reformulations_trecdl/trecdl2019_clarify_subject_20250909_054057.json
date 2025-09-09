@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Clarify Subject",
+  "timestamp": "20250909_054057",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow larger",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'goldfish' was refined to 'goldfish grow larger' to better reflect the user's intent of understanding growth in size.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "what are the differences between wifi and bluetooth",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject was refined to clearly focus on the comparison between WiFi and Bluetooth.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "why did the united states voluntarily enter world war 1",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'us' was clarified to 'united states' and 'ww1' was expanded to 'world war 1' for better representation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "what is a declaratory judgment",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'definition declaratory judgment' was refined to 'what is a declaratory judgment' to better reflect the user's intent of understanding what a declaratory judgment is.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "causes of right pelvic pain",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'right pelvic pain' was clarified to focus on its causes, ensuring the query accurately represents the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the key factors that influence health outcomes",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'social determinants of health' was refined to 'key factors that influence health outcomes' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "is legionella pneumophila a cause of pneumonia",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'legionella pneumophila' was clarified to explicitly state the relationship with pneumonia.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "what is the current weather like in jamaica",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'weather' was refined to 'current weather' to better reflect the user's intent of understanding the present conditions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "what are the types of dysarthria associated with cerebral palsy",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'types of dysarthria from cerebral palsy' was refined to 'the types of dysarthria associated with cerebral palsy' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who is robert gray",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The subject 'robert gray' is already clear and specific, so no further clarification is needed.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what kinds of food are suitable for sous vide cooking",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'types of food' was refined to 'kinds of food are suitable' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "what is the life cycle duration of a flea",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'life cycle of flea' was refined to 'life cycle duration of a flea' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can contour plowing reduce in soil erosion",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'contour plowing' was refined to specify its effect on 'soil erosion', which is a common and specific context for this practice.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the salvation army organization founded",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'salvation army' was refined to 'salvation army organization' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is an active tectonic margin",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'active margin' was refined to 'active tectonic margin' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between registered nurse (RN) and bachelor of science in nursing (BSN)",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subjects 'rn' and 'bsn' were expanded to their full forms to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "what is medicare's definition of mechanical ventilation",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'medicare's definition of mechanical ventilation' was clarified to ensure it accurately represents the user's intent by explicitly asking for the definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to determine the midsegment of a trapezoid",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Replaced 'find' with 'determine' to more accurately reflect the user's intent in understanding the method.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what does an aml surveillance analyst do",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'aml surveillance analyst' was refined to better reflect the user's intent by specifying what they do.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what is the daily life of people in Thailand",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'thai people' was refined to 'people in Thailand' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "what is a sigmet in aviation",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'sigmet' was clarified to specify its context within aviation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete floor installation",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'interior concrete flooring' was refined to 'interior concrete floor installation' to better reflect the user's intent regarding the cost associated with the process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what are the most popular foods in switzerland",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'most popular food' was refined to 'most popular foods' to better reflect the user's intent of understanding a broader range of popular dishes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "which sharks are warm blooded",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'some sharks' was refined to 'which sharks' to better reflect the user's intent of identifying specific types of sharks that are warm-blooded.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what does durable medical equipment consist of",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'durable medical equipment' was clarified to better reflect the user's intent by adding 'does...consist of'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "what is the definition of exons in biology",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'exons' was clarified to ensure it is accurately represented by specifying its context within biology.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "what is the definition of visceral",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'visceral' was clarified to explicitly ask for its definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of which plant tissue",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'tracheids' is clarified by specifying that the query is about identifying the type of plant tissue they belong to.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "what is rsa key definition",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'rsa definition key' was refined to 'what is rsa key definition' to better reflect the user's intent of understanding the definition of an RSA key.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "who established the commonwealth of independent states",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Replaced 'formed' with 'established' to more accurately reflect the action of creating the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "what are the causes of left ventricular hypertrophy",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'causes of left ventricular hypertrophy' was refined to explicitly ask about the specific factors leading to this condition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "what is the definition of lps laws",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'lps laws' was clarified to ensure it accurately represents the user's intent by explicitly asking for its definition.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "who are the three percenters",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "Replaced 'what' with 'who' to clarify that the query is about a group of people.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "what are the causes of suicide among military personnel",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'military suicide' was refined to 'suicide among military personnel' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm gel used for",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'theraderm' was refined to 'theraderm gel' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what conditions is famvir prescribed for",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'famvir' was clarified to specify that the query is about the conditions it treats.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "what is the anthropological definition of environment",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'anthropological definition of environment' was clarified by explicitly asking for it.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "definition of axon terminals or synaptic knobs",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'axon terminals or synaptic knob' was refined to 'axon terminals or synaptic knobs' to better reflect the user's intent and ensure clarity.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport located in central paris",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'main paris' was refined to 'central paris' to better reflect the user's intent regarding the location of CDG Airport.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "what is an example of a monotonic function",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'example of monotonic function' was refined to 'an example of a monotonic function' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the physical characteristics of a spruce tree",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'physical description' was refined to 'physical characteristics of a spruce tree' to better reflect the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "at what temperature does hydrogen become a liquid",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'hydrogen' is clarified to focus on the specific condition of becoming a liquid.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "what are the differences between a mcdouble and a double cheeseburger",
+      "pattern_applied": "Clarify Subject",
+      "explanation": "The main subject 'difference' was refined to 'differences' to better reflect the user's intent of understanding multiple aspects of how these two burgers differ.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

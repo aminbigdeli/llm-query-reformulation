@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Clarify Intent",
+  "timestamp": "20250909_053057",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "how big do goldfish grow",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intent of understanding the growth size of goldfish.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "compare wifi and bluetooth technologies",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intent of comparing WiFi and Bluetooth, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "what were the reasons for the us voluntarily entering ww1",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the reasons behind the US decision to enter WWI.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "what is a declaratory judgment used for",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intended action of understanding the purpose or use of a declaratory judgment.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "what are the common causes of right pelvic pain",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific causes of right pelvic pain.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "list the key social determinants of health",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly request a list of the key factors, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "what are the symptoms of pneumonia caused by legionella pneumophila",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific effects of Legionella pneumophila, focusing on the symptoms it causes.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "what is the current weather forecast for jamaica",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for the current weather information in Jamaica.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "what are the specific types of dysarthria associated with cerebral palsy",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific types of dysarthria that can result from cerebral palsy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "what are the key achievements of robert gray",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address what specific information is sought about Robert Gray, focusing on his key achievements.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "list of foods suitable for sous vide cooking",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for a list of foods that can be cooked using the sous vide method.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "what are the stages and duration of a flea's life cycle",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific stages and their durations in a flea's life cycle.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "how does contour plowing reduce soil erosion",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the specific effect of contour plowing, which is reducing soil erosion.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "what year was the salvation army established",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the specific year of establishment, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what defines an active margin in geology",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for a definition or characteristics of an active margin, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "what are the key differences between RN (Registered Nurse) and BSN (Bachelor of Science in Nursing) degrees",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information on the specific differences between RN and BSN, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "what is medicare's official definition of mechanical ventilation",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for Medicare's official definition, making the intent more clear and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to calculate the midsegment of a trapezoid",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the action of calculating the midsegment, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what are the responsibilities of an aml surveillance analyst",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's likely intent to understand the role and responsibilities of an AML Surveillance Analyst.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what are the typical activities and customs of Thai people in their daily life",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intended action or information need by specifying what aspects of daily life (activities and customs) they are interested in.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "what does a sigmet mean in aviation",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for understanding what a SIGMET means, specifically in the context of aviation.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "how much does it cost to install interior concrete flooring",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intent of finding out the installation cost for interior concrete flooring.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what food is most commonly eaten in switzerland",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intent of finding out which food is most frequently consumed in Switzerland.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "which sharks are warm-blooded and how do they maintain their body temperature",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intended action or information need, specifying which sharks are warm-blooded and how they achieve this.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what are the components of durable medical equipment",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the components that make up durable medical equipment.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "what is the definition of exons in biology",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the definition of exons in the context of biology, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "what does visceral mean",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for a definition of 'visceral'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "what part of plants do tracheids belong to",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the specific part of plants where tracheids are found, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "what is the definition of rsa key",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the definition of RSA key, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "which countries formed the commonwealth of independent states",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about which specific entities were involved in forming the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "what are the main causes of left ventricular hypertrophy",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific causes of left ventricular hypertrophy.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "what does lps stand for in legal terms",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The reformulated query directly addresses the user's intent to understand the definition of LPS within a legal context.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what do the three percenters believe and stand for",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The reformulated query directly addresses the user's intent to understand the beliefs and stance of the 'three percenters'.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "what are the main factors contributing to military suicide",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's intent of understanding the specific factors that contribute to military suicides.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what are the uses of theraderm",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the specific uses of Theraderm.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what conditions does famvir treat",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for information about the conditions treated by Famvir.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "what is the anthropological definition of environment",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the specific information needed, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "what is the definition of axon terminals and synaptic knobs",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the definitions of both terms, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport located within paris city limits",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address whether CDG Airport is situated within the official boundaries of Paris, making it more specific and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "what are some examples of monotonic functions",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for specific examples of monotonic functions, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the key physical characteristics of a spruce tree",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for specific physical characteristics of a spruce tree.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "what is the temperature at which hydrogen becomes a liquid",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly ask for the specific temperature at which hydrogen transitions to a liquid state, making it more direct and actionable.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "what are the key differences between a mcdouble and a double cheeseburger",
+      "pattern_applied": "Clarify Intent",
+      "explanation": "The query was rephrased to directly address the user's need for specific information about the differences between the two burger types.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}

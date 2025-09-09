@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Temporal Adjustment",
+  "timestamp": "20250909_052026",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do goldfish grow over time",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'over time' to better reflect the temporal aspect of the growth process.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "what is wifi vs bluetooth",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "why did the us enter ww1",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Removed 'volunterilay' as it is not a standard term and does not accurately reflect the time frame or manner of entry into WWI.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "definition of declaratory judgment",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any explicit temporal terms to adjust. The reformulation maintains the original intent without altering the time frame.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "right pelvic pain causes currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more relevant time frame for the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the current social determinants of health",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The term 'current' was added to reflect a more accurate and relevant time frame, aligning with the user's likely intent to understand the present state of social determinants of health.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "does legionella pneumophila currently cause pneumonia",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame, aligning with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "what is the current weather like in jamaica",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Adjusted 'is' to 'current' to better reflect a more accurate and relevant time frame for the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "types of dysarthria from cerebral palsy",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who is robert gray",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what types of food can you cook sous vide",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that could be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "how long does a flea's life cycle last",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The phrase 'is life cycle' was changed to 'does life cycle last' to better reflect the duration of the flea's life cycle.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can contour plowing reduce today",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'today' to reflect a current or relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the salvation army established",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Changed 'founded' to 'established' to better align with the user's intent of understanding the creation of the organization.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what is an active margin",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted. The term 'active' in this context refers to a geological concept and not a temporal aspect.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between rn and bsn",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "medicare's current definition of mechanical ventilation",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to find the midsegment of a trapezoid",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what is an aml surveillance analyst",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what is the current daily life of thai people",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to specify that the user is interested in the present-day lifestyle.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "definition of a sigmet",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of interior concrete flooring",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what is the most popular food in switzerland currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "how are some sharks warm blooded",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what does durable medical equipment consist of currently",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "exons definition biology",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "define visceral",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of _____.",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "rsa definition key",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "who formed the commonwealth of independent states in 1991",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added a specific year to better align with the historical formation of the Commonwealth of Independent States.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of left ventricular hypertrophy",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "lps laws definition current",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'current' to reflect the most recent or relevant time frame for the definition of LPS laws.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are the three percenters today",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'today' to reflect a current or more relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "causes of military suicide in recent years",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'in recent years' to specify a more relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what is theraderm currently used for",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what is famvir currently prescribed for",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate and relevant time frame.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "anthropological definition of environment",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "axon terminals or synaptic knob definition",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "is cdg airport currently in main paris",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Added 'currently' to reflect a more accurate time frame, aligning with the user's intent to know the current status.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "example of monotonic function",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The query does not contain any time-related terms that can be adjusted.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what is physical description of spruce",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "hydrogen becomes a liquid below what temperature",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "Adjusted 'is' to 'becomes' to better reflect the phase transition and align with the user's intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "difference between a mcdouble and a double cheeseburger",
+      "pattern_applied": "Temporal Adjustment",
+      "explanation": "The original query does not contain any time-related terms that can be adjusted to better align with the user's intent.",
+      "applicable": false,
+      "confidence": "high"
+    }
+  ]
+}

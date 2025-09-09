@@ -1,0 +1,395 @@
+{
+  "dataset": "trecdl2019",
+  "pattern": "Generalization",
+  "timestamp": "20250909_050617",
+  "total_queries": 43,
+  "reformulations": [
+    {
+      "qid": "156493",
+      "original_query": "do goldfish grow",
+      "reformulated_query": "do pet fish grow",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'goldfish' was replaced with 'pet fish' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1110199",
+      "original_query": "what is wifi vs bluetooth",
+      "reformulated_query": "compare wireless communication technologies",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'wifi' and 'bluetooth' with 'wireless communication technologies' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1063750",
+      "original_query": "why did the us volunterilay enter ww1",
+      "reformulated_query": "why did countries voluntarily enter world wars",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'US' with 'countries' and 'WW1' with 'world wars' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "130510",
+      "original_query": "definition declaratory judgment",
+      "reformulated_query": "what is a declaratory judgment",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'definition' was removed to broaden the scope of the query, allowing for more general information about declaratory judgments.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "489204",
+      "original_query": "right pelvic pain causes",
+      "reformulated_query": "pelvic pain causes",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'right' was removed to generalize the query to cover pelvic pain in general, rather than a specific side.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "573724",
+      "original_query": "what are the social determinants of health",
+      "reformulated_query": "what are the factors influencing health",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'social determinants' was replaced with 'factors influencing' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "168216",
+      "original_query": "does legionella pneumophila cause pneumonia",
+      "reformulated_query": "do bacteria cause pneumonia",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'legionella pneumophila' with 'bacteria' to broaden the query to cover a wider range of related pathogens.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1133167",
+      "original_query": "how is the weather in jamaica",
+      "reformulated_query": "what are the climate conditions in caribbean countries",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'Jamaica' was replaced with 'Caribbean countries' to broaden the query while maintaining the intent of understanding weather or climate.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "527433",
+      "original_query": "types of dysarthria from cerebral palsy",
+      "reformulated_query": "types of speech disorders from neurological conditions",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'dysarthria' with 'speech disorders' and 'cerebral palsy' with 'neurological conditions' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1037798",
+      "original_query": "who is robert gray",
+      "reformulated_query": "who are notable figures with the last name gray",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'robert gray' was replaced with a more general term 'notable figures with the last name gray' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "915593",
+      "original_query": "what types of food can you cook sous vide",
+      "reformulated_query": "what kinds of dishes can be prepared using precision cooking techniques",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'types of food' with 'kinds of dishes' and 'sous vide' with 'precision cooking techniques' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "264014",
+      "original_query": "how long is life cycle of flea",
+      "reformulated_query": "what is the life cycle of common parasites",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'flea' was replaced with 'common parasites' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121402",
+      "original_query": "what can contour plowing reduce",
+      "reformulated_query": "what can agricultural practices reduce",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'contour plowing' with 'agricultural practices' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "962179",
+      "original_query": "when was the salvation army founded",
+      "reformulated_query": "when was the charitable organization founded",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'Salvation Army' was replaced with the more general term 'charitable organization' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1117099",
+      "original_query": "what is a active margin",
+      "reformulated_query": "what are active margins",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'a' was replaced with 'are' to broaden the query from a single instance to multiple instances, encompassing a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "148538",
+      "original_query": "difference between rn and bsn",
+      "reformulated_query": "difference between nursing degrees",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'RN' and 'BSN' with 'nursing degrees' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "451602",
+      "original_query": "medicare's definition of mechanical ventilation",
+      "reformulated_query": "definition of respiratory support in healthcare",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'medicare' with 'healthcare' and 'mechanical ventilation' with 'respiratory support' to broaden the scope.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "359349",
+      "original_query": "how to find the midsegment of a trapezoid",
+      "reformulated_query": "how to find the midsegment of a quadrilateral",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'trapezoid' was replaced with 'quadrilateral', which is a more general category that includes trapezoids.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1115776",
+      "original_query": "what is an aml surveillance analyst",
+      "reformulated_query": "what does a financial surveillance analyst do",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'aml' with 'financial' to broaden the scope of the query while maintaining the focus on surveillance and analysis in finance.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1112341",
+      "original_query": "what is the daily life of thai people",
+      "reformulated_query": "what is the daily life of southeast asian people",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'Thai' was replaced with 'Southeast Asian' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "131843",
+      "original_query": "definition of a sigmet",
+      "reformulated_query": "what are significant meteorological phenomena",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'sigmet' with 'significant meteorological phenomena' to broaden the query while maintaining its intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "104861",
+      "original_query": "cost of interior concrete flooring",
+      "reformulated_query": "cost of concrete flooring",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'interior' was removed to broaden the scope to all types of concrete flooring, not just interior.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "833860",
+      "original_query": "what is the most popular food in switzerland",
+      "reformulated_query": "what are popular foods in switzerland",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'most popular' was replaced with 'popular' to broaden the query and cover a wider range of well-liked foods.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "207786",
+      "original_query": "how are some sharks warm blooded",
+      "reformulated_query": "how are some marine animals warm blooded",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'sharks' with 'marine animals' to broaden the query to cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114819",
+      "original_query": "what is durable medical equipment consist of",
+      "reformulated_query": "what does medical equipment include",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'durable medical equipment' was replaced with 'medical equipment' to broaden the scope of the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "183378",
+      "original_query": "exons definition biology",
+      "reformulated_query": "genetic elements definition biology",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'exons' with 'genetic elements' to broaden the query while maintaining the focus on biological definitions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1106007",
+      "original_query": "define visceral?",
+      "reformulated_query": "what are visceral organs?",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'visceral' was replaced with 'visceral organs' to broaden the query and cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1124210",
+      "original_query": "tracheids are part of _____.",
+      "reformulated_query": "tracheids are part of which plant structures",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term '_____' was replaced with a more general term 'which plant structures' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "490595",
+      "original_query": "rsa definition key",
+      "reformulated_query": "public key cryptography definition",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'rsa' with 'public key cryptography' to broaden the scope while maintaining the focus on key definitions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1103812",
+      "original_query": "who formed the commonwealth of independent states",
+      "reformulated_query": "which countries are part of post-soviet states",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'Commonwealth of Independent States' was replaced with the more general term 'post-Soviet states' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87181",
+      "original_query": "causes of left ventricular hypertrophy",
+      "reformulated_query": "causes of cardiac hypertrophy",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'left ventricular' with 'cardiac' to broaden the query to cover hypertrophy in any part of the heart.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "443396",
+      "original_query": "lps laws definition",
+      "reformulated_query": "laws defining legal principles",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'lps' with 'legal principles' to broaden the scope of the query while maintaining the intent of understanding laws and definitions.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1121709",
+      "original_query": "what are the three percenters?",
+      "reformulated_query": "what are some groups with a strong belief in individual rights?",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'three percenters' was replaced with a more general description of groups that share similar beliefs.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "87452",
+      "original_query": "causes of military suicide",
+      "reformulated_query": "causes of service member suicide",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'military' was replaced with 'service member' to encompass a broader category that includes all types of service members, not just those in the military.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "855410",
+      "original_query": "what is theraderm used for",
+      "reformulated_query": "what are topical skin treatments used for",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'theraderm' with 'topical skin treatments' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1114646",
+      "original_query": "what is famvir prescribed for",
+      "reformulated_query": "what conditions are antiviral medications prescribed for",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'Famvir' with 'antiviral medications' to broaden the query to cover a wider range of related treatments.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "19335",
+      "original_query": "anthropological definition of environment",
+      "reformulated_query": "definition of environment in social sciences",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'anthropological' was replaced with 'social sciences' to broaden the scope while maintaining the focus on a definition of environment.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "47923",
+      "original_query": "axon terminals or synaptic knob definition",
+      "reformulated_query": "neurotransmitter release sites definition",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'axon terminals or synaptic knob' with 'neurotransmitter release sites' to cover a broader range of related structures in neuroscience.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "405717",
+      "original_query": "is cdg airport in main paris",
+      "reformulated_query": "are major airports located within paris",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'cdg airport' with 'major airports' to broaden the query.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "182539",
+      "original_query": "example of monotonic function",
+      "reformulated_query": "examples of functions with consistent behavior",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced 'monotonic function' with 'functions with consistent behavior' to broaden the query while maintaining the intent.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1113437",
+      "original_query": "what is physical description of spruce",
+      "reformulated_query": "what are the physical characteristics of coniferous trees",
+      "pattern_applied": "Generalization",
+      "explanation": "The term 'spruce' was replaced with 'coniferous trees' to broaden the query and cover a wider range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "1129237",
+      "original_query": "hydrogen is a liquid below what temperature",
+      "reformulated_query": "what are the conditions for hydrogen to be in a liquid state",
+      "pattern_applied": "Generalization",
+      "explanation": "The specific term 'temperature' was replaced with a more general term 'conditions' to encompass a broader range of factors that could affect hydrogen's state.",
+      "applicable": true,
+      "confidence": "high"
+    },
+    {
+      "qid": "146187",
+      "original_query": "difference between a mcdouble and a double cheeseburger",
+      "reformulated_query": "differences between types of cheeseburgers",
+      "pattern_applied": "Generalization",
+      "explanation": "Replaced specific burger names with a more general term to cover a broader range of related topics.",
+      "applicable": true,
+      "confidence": "high"
+    }
+  ]
+}
