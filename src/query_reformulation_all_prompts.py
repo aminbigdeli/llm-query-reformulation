@@ -462,6 +462,85 @@ Important:
 Query Reformulation:""" 
 
 
+def create_oracle_single_pattern_prompt(original_query: str, 
+                                       pattern: ReformulationPattern) -> List[Dict[str, str]]:
+    """
+    Creates a prompt for applying a single specific pattern to reformulate a query (Oracle mode).
+    
+    Args:
+        original_query: The query to reformulate
+        pattern: Single reformulation pattern to apply
+        
+    Returns:
+        List of messages for the LLM
+    """
+    messages = [
+        {
+            "role": "system",
+            "content": "You are QueryReformulationLLM, an expert at applying specific reformulation patterns to improve search queries. You apply the given pattern precisely to transform the query while maintaining its intent."
+        },
+        {
+            "role": "user",
+            "content": get_oracle_single_pattern_content(original_query, pattern)
+        }
+    ]
+    return messages
+
+def get_oracle_single_pattern_content(original_query: str, 
+                                    pattern: ReformulationPattern) -> str:
+    """
+    Gets the content for the oracle single pattern reformulation prompt.
+    
+    Args:
+        original_query: The query to reformulate
+        pattern: Single reformulation pattern to apply
+        
+    Returns:
+        Formatted prompt content
+    """
+    
+    # Format pattern examples
+    examples_text = ""
+    if pattern.examples:
+        examples_text = "\n".join([
+            f"  Example {i+1}: \"{ex[0]}\" → \"{ex[1]}\""
+            for i, ex in enumerate(pattern.examples[:3])  # Show up to 3 examples
+        ])
+        examples_text = f"\nExamples of this pattern:\n{examples_text}\n"
+    
+    return f"""Apply the following specific reformulation pattern to improve the given query.
+
+Original Query: "{original_query}"
+
+Pattern to Apply:
+- Name: {pattern.pattern_name}
+- Description: {pattern.description}
+- Transformation Rule: {pattern.transformation_rule}{examples_text}
+
+Instructions:
+1. Apply ONLY this specific pattern to the query
+2. Follow the transformation rule precisely
+3. Use the examples as guidance for how to apply the pattern
+4. Ensure the reformulated query maintains the original intent
+5. If the pattern is not applicable to this query, return the original query unchanged
+
+Return ONLY a JSON object with the following structure:
+{{
+    "reformulated_query": "the improved query after applying the pattern",
+    "pattern_applied": "{pattern.pattern_name}",
+    "explanation": "brief explanation of how the pattern was applied",
+    "applicable": true/false,
+    "confidence": "high/medium/low"
+}}
+
+Important:
+- Return ONLY the JSON object, no additional text
+- If the pattern is not applicable, set "applicable": false and return original query
+- Be precise in applying the transformation rule
+
+Oracle Reformulation:"""
+
+
 def create_iterative_pattern_prompt(query_pairs: List[QueryPair], 
                                  consolidated_patterns: List[ReformulationPattern] = None,
                                  creator_max_patterns: int = 20) -> List[Dict[str, str]]:
