@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Oracle Query Reformulation for TREC-DL Datasets
-Applies every pattern to every query systematically.
+Applies every pattern to every query systematically (Oracle).
 """
 
 import os, sys, json, logging, csv
